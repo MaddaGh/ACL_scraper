@@ -1,0 +1,772 @@
+list,title,doi,documentPage
+https://dblp.org/rec/conf/i-semantics/0001BPK17,Multi-core Meta-blocking for Big Linked Data.,https://doi.org/10.1145/3132218.3132230,https://doi.org/10.1145/3132218.3132230
+https://dblp.org/rec/conf/i-semantics/0002FP24,Semantic Smart Readiness Indicator Framework.,https://doi.org/10.3233/SSW240015,https://doi.org/10.3233/SSW240015
+https://dblp.org/rec/conf/i-semantics/0002K22,Attribute-based Access Control on Solid Pods using Privacy-friendly Credentials.,,https://ceur-ws.org/Vol-3235/paper1.pdf
+https://dblp.org/rec/conf/i-semantics/0002PS13,City Data Pipeline - A System for Making Open Data Useful for Cities.,,https://ceur-ws.org/Vol-1026/paper10.pdf
+https://dblp.org/rec/conf/i-semantics/0002PSHN18,CostFed: Cost-Based Query Optimization for SPARQL Endpoint Federation.,https://doi.org/10.1016/J.PROCS.2018.09.016,https://doi.org/10.1016/J.PROCS.2018.09.016
+https://dblp.org/rec/conf/i-semantics/0003GV22,Metadata Based Contextual Summarizer for Technical Conversations in Public Forums.,https://doi.org/10.3233/SSW220019,https://doi.org/10.3233/SSW220019
+https://dblp.org/rec/conf/i-semantics/2009,"5th International Conference on Semantic Systems, Graz, Austria, September 2-4, 2009. Proceedings",,
+https://dblp.org/rec/conf/i-semantics/2010,"Proceedings the 6th International Conference on Semantic Systems, I-SEMANTICS 2010, Graz, Austria, September 1-3, 2010",https://doi.org/10.1145/1839707,https://doi.org/10.1145/1839707
+https://dblp.org/rec/conf/i-semantics/2011,"Proceedings the 7th International Conference on Semantic Systems, I-SEMANTICS 2011, Graz, Austria, September 7-9, 2011",https://doi.org/10.1145/2063518,https://doi.org/10.1145/2063518
+https://dblp.org/rec/conf/i-semantics/2012,"I-SEMANTICS 2012 - 8th International Conference on Semantic Systems, I-SEMANTICS '12, Graz, Austria, September 5-7, 2012",,http://dl.acm.org/citation.cfm?id=2362499
+https://dblp.org/rec/conf/i-semantics/2012p,"Proceedings of the I-SEMANTICS 2012 Posters & Demonstrations Track, Graz, Austria, September 5-7, 2012",,https://ceur-ws.org/Vol-932
+https://dblp.org/rec/conf/i-semantics/2012p,"Proceedings of the I-SEMANTICS 2012 Posters & Demonstrations Track, Graz, Austria, September 5-7, 2012",,https://nbn-resolving.org/urn:nbn:de:0074-932-3
+https://dblp.org/rec/conf/i-semantics/2013,"I-SEMANTICS 2013 - 9th International Conference on Semantic Systems, I-SEMANTICS '13, Graz, Austria, September 4-6, 2013",,http://dl.acm.org/citation.cfm?id=2506182
+https://dblp.org/rec/conf/i-semantics/2013p,"Proceedings of the I-SEMANTICS 2013 Posters & Demonstrations Track, Graz, Austria, September 4-6, 2013",,https://ceur-ws.org/Vol-1026
+https://dblp.org/rec/conf/i-semantics/2013p,"Proceedings of the I-SEMANTICS 2013 Posters & Demonstrations Track, Graz, Austria, September 4-6, 2013",,https://nbn-resolving.org/urn:nbn:de:0074-1026-7
+https://dblp.org/rec/conf/i-semantics/2014,"Proceedings of the 10th International Conference on Semantic Systems, SEMANTiCS 2014, Leipzig, Germany, September 4-5, 2014",,http://dl.acm.org/citation.cfm?id=2660517
+https://dblp.org/rec/conf/i-semantics/2014p,"Proceedings of the Posters and Demos Track of 10th International Conference on Semantic Systems - SEMANTiCS2014, Leipzig, Germany, September 4-5, 2014.",,https://ceur-ws.org/Vol-1224
+https://dblp.org/rec/conf/i-semantics/2015,"Proceedings of the 11th International Conference on Semantic Systems, SEMANTiCS 2015, Vienna, Austria, September 15-17, 2015",,http://dl.acm.org/citation.cfm?id=2814864
+https://dblp.org/rec/conf/i-semantics/2015p,"Joint Proceedings of the Posters and Demos Track of 11th International Conference on Semantic Systems - SEMANTiCS 2015 and 1st Workshop on Data Science: Methods, Technology and Applications (DSci15) 11th International Conference on Semantic Systems - SEMANTiCS 2015, Vienna, Austria, September 15-17, 2015.",,https://ceur-ws.org/Vol-1481
+https://dblp.org/rec/conf/i-semantics/2015p,"Joint Proceedings of the Posters and Demos Track of 11th International Conference on Semantic Systems - SEMANTiCS 2015 and 1st Workshop on Data Science: Methods, Technology and Applications (DSci15) 11th International Conference on Semantic Systems - SEMANTiCS 2015, Vienna, Austria, September 15-17, 2015.",,https://nbn-resolving.org/urn:nbn:de:0074-1481-4
+https://dblp.org/rec/conf/i-semantics/2016,"Proceedings of the 12th International Conference on Semantic Systems, SEMANTiCS 2016, Leipzig, Germany, September 12-15, 2016",,http://dl.acm.org/citation.cfm?id=2993318
+https://dblp.org/rec/conf/i-semantics/2016p,"Joint Proceedings of the Posters and Demos Track of the 12th International Conference on Semantic Systems - SEMANTiCS2016 and the 1st International Workshop on Semantic Change & Evolving Semantics (SuCCESS'16) co-located with the 12th International Conference on Semantic Systems (SEMANTiCS 2016), Leipzig, Germany, September 12-15, 2016.",,https://nbn-resolving.org/urn:nbn:de:0074-1695-3
+https://dblp.org/rec/conf/i-semantics/2017,"Proceedings of the 13th International Conference on Semantic Systems, SEMANTiCS 2017, Amsterdam, The Netherlands, September 11-14, 2017",https://doi.org/10.1145/3132218,https://doi.org/10.1145/3132218
+https://dblp.org/rec/conf/i-semantics/2017pd,"Proceedings of the Posters and Demos Track of the 13th International Conference on Semantic Systems - SEMANTiCS2017 co-located with the 13th International Conference on Semantic Systems (SEMANTiCS 2017), Amsterdam, The Netherlands, September 11-14, 2017.",,https://ceur-ws.org/Vol-2044
+https://dblp.org/rec/conf/i-semantics/2017pd,"Proceedings of the Posters and Demos Track of the 13th International Conference on Semantic Systems - SEMANTiCS2017 co-located with the 13th International Conference on Semantic Systems (SEMANTiCS 2017), Amsterdam, The Netherlands, September 11-14, 2017.",,https://nbn-resolving.org/urn:nbn:de:0074-2044-0
+https://dblp.org/rec/conf/i-semantics/2017w,"Joint Proceedings of SEMANTiCS 2017 Workshops co-located with the 13th International Conference on Semantic Systems (SEMANTiCS 2017), Amsterdam, Netherlands, September 11 and 14, 2017.",,https://ceur-ws.org/Vol-2063
+https://dblp.org/rec/conf/i-semantics/2017w,"Joint Proceedings of SEMANTiCS 2017 Workshops co-located with the 13th International Conference on Semantic Systems (SEMANTiCS 2017), Amsterdam, Netherlands, September 11 and 14, 2017.",,https://nbn-resolving.org/urn:nbn:de:0074-2063-4
+https://dblp.org/rec/conf/i-semantics/2018,"Proceedings of the 14th International Conference on Semantic Systems, SEMANTiCS 2018, Vienna, Austria, September 10-13, 2018",,https://www.sciencedirect.com/science/journal/18770509/137
+https://dblp.org/rec/conf/i-semantics/2018pd,"Proceedings of the Posters and Demos Track of the 14th International Conference on Semantic Systems co-located with the 14th International Conference on Semantic Systems (SEMANTiCS 2018), Vienna, Austria, September 10-13, 2018.",,https://ceur-ws.org/Vol-2198
+https://dblp.org/rec/conf/i-semantics/2018pd,"Proceedings of the Posters and Demos Track of the 14th International Conference on Semantic Systems co-located with the 14th International Conference on Semantic Systems (SEMANTiCS 2018), Vienna, Austria, September 10-13, 2018.",,https://nbn-resolving.org/urn:nbn:de:0074-2198-0
+https://dblp.org/rec/conf/i-semantics/2019,"Semantic Systems. The Power of AI and Knowledge Graphs - 15th International Conference, SEMANTiCS 2019, Karlsruhe, Germany, September 9-12, 2019, Proceedings",https://doi.org/10.1007/978-3-030-33220-4,https://doi.org/10.1007/978-3-030-33220-4
+https://dblp.org/rec/conf/i-semantics/2019pd,"Proceedings of the Posters and Demo Track of the 15th International Conference on Semantic Systems co-located with 15th International Conference on Semantic Systems (SEMANTiCS 2019), Karlsruhe, Germany, September 9th - to - 12th, 2019.",,https://ceur-ws.org/Vol-2451
+https://dblp.org/rec/conf/i-semantics/2019pd,"Proceedings of the Posters and Demo Track of the 15th International Conference on Semantic Systems co-located with 15th International Conference on Semantic Systems (SEMANTiCS 2019), Karlsruhe, Germany, September 9th - to - 12th, 2019.",,https://nbn-resolving.org/urn:nbn:de:0074-2451-7
+https://dblp.org/rec/conf/i-semantics/2020,"Semantic Systems. In the Era of Knowledge Graphs - 16th International Conference on Semantic Systems, SEMANTiCS 2020, Amsterdam, The Netherlands, September 7-10, 2020, Proceedings",https://doi.org/10.1007/978-3-030-59833-4,https://doi.org/10.1007/978-3-030-59833-4
+https://dblp.org/rec/conf/i-semantics/2021,"Further with Knowledge Graphs - Proceedings of the 17th International Conference on Semantic Systems, SEMANTiCS 2017, Amsterdam, The Netherlands, September 6-9, 2021",https://doi.org/10.3233/SSW53,https://doi.org/10.3233/SSW53
+https://dblp.org/rec/conf/i-semantics/2021pd,"Joint Proceedings of the Semantics co-located events: Poster&Demo track and Workshop on Ontology-Driven Conceptual Modelling of Digital Twins co-located with Semantics 2021, Amsterdam and Online, September 6-9, 2021.",,https://ceur-ws.org/Vol-2941
+https://dblp.org/rec/conf/i-semantics/2021pd,"Joint Proceedings of the Semantics co-located events: Poster&Demo track and Workshop on Ontology-Driven Conceptual Modelling of Digital Twins co-located with Semantics 2021, Amsterdam and Online, September 6-9, 2021.",,https://nbn-resolving.org/urn:nbn:de:0074-2941-5
+https://dblp.org/rec/conf/i-semantics/2022,"Towards a Knowledge-Aware AI - SEMANTiCS 2022 - Proceedings of the 18th International Conference on Semantic Systems, 13-15 September 2022, Vienna, Austria",https://doi.org/10.3233/SSW55,https://doi.org/10.3233/SSW55
+https://dblp.org/rec/conf/i-semantics/2022pd,"Proceedings of Poster and Demo Track and Workshop Track of the 18th International Conference on Semantic Systems co-located with 18th International Conference on Semantic Systems (SEMANTiCS 2022), Vienna, Austria, September 13th to 15th, 2022.",,https://ceur-ws.org/Vol-3235
+https://dblp.org/rec/conf/i-semantics/2022pd,"Proceedings of Poster and Demo Track and Workshop Track of the 18th International Conference on Semantic Systems co-located with 18th International Conference on Semantic Systems (SEMANTiCS 2022), Vienna, Austria, September 13th to 15th, 2022.",,https://nbn-resolving.org/urn:nbn:de:0074-3235-0
+https://dblp.org/rec/conf/i-semantics/2023,"Knowledge Graphs: Semantics, Machine Learning, and Languages - Proceedings of the 19th International Conference on Semantic Systems, 20-22 September 2023, Leipzig, Germany",https://doi.org/10.3233/SSW56,https://doi.org/10.3233/SSW56
+https://dblp.org/rec/conf/i-semantics/2023pd,"Proceedings of the Posters and Demo Track of the 19th International Conference on Semantic Systems co-located with 19th International Conference on Semantic Systems (SEMANTiCS 2023), Leipzing, Germany, September 20 to 22, 2023.",,https://ceur-ws.org/Vol-3526
+https://dblp.org/rec/conf/i-semantics/2023pd,"Proceedings of the Posters and Demo Track of the 19th International Conference on Semantic Systems co-located with 19th International Conference on Semantic Systems (SEMANTiCS 2023), Leipzing, Germany, September 20 to 22, 2023.",,https://nbn-resolving.org/urn:nbn:de:0074-3526-1
+https://dblp.org/rec/conf/i-semantics/2023w,"Joint Workshop Proceedings of the 5th International Workshop on A Semantic Data Space For Transport (Sem4Tra) and 2nd NLP4KGC: Natural Language Processing for Knowledge Graph Construction co-located with the 19th International Conference on Semantic Systems (SEMANTiCS 2023), Leipzig, Germany and Online, 20 September, 2023.",,https://ceur-ws.org/Vol-3510
+https://dblp.org/rec/conf/i-semantics/2023w,"Joint Workshop Proceedings of the 5th International Workshop on A Semantic Data Space For Transport (Sem4Tra) and 2nd NLP4KGC: Natural Language Processing for Knowledge Graph Construction co-located with the 19th International Conference on Semantic Systems (SEMANTiCS 2023), Leipzig, Germany and Online, 20 September, 2023.",,https://nbn-resolving.org/urn:nbn:de:0074-3510-6
+https://dblp.org/rec/conf/i-semantics/2024,"Knowledge Graphs in the Age of Language Models and Neuro-Symbolic AI - Proceedings of the 20th International Conference on Semantic Systems, 17-19 September 2024, Amsterdam, The Netherlands",https://doi.org/10.3233/SSW60,https://doi.org/10.3233/SSW60
+https://dblp.org/rec/conf/i-semantics/2024pd,"Joint Proceedings of Posters, Demos, Workshops, and Tutorials of the 20th International Conference on Semantic Systems co-located with 20th International Conference on Semantic Systems (SEMANTiCS 2024), Amsterdam, The Netherlands, September 17-19, 2024.",,https://ceur-ws.org/Vol-3759
+https://dblp.org/rec/conf/i-semantics/2024pd,"Joint Proceedings of Posters, Demos, Workshops, and Tutorials of the 20th International Conference on Semantic Systems co-located with 20th International Conference on Semantic Systems (SEMANTiCS 2024), Amsterdam, The Netherlands, September 17-19, 2024.",,https://nbn-resolving.org/urn:nbn:de:0074-3759-2
+https://dblp.org/rec/conf/i-semantics/Aasman09,GeoTemporal Reasoning for the Social Semantic Web.,,
+https://dblp.org/rec/conf/i-semantics/AbdelmageedH24,A systematic approach towards higher quality linked open data at Nieuwe Instituut.,,https://ceur-ws.org/Vol-3759/paper9.pdf
+https://dblp.org/rec/conf/i-semantics/AbelaSH11,Online activity graph for document importance and association.,https://doi.org/10.1145/2063518.2063547,https://doi.org/10.1145/2063518.2063547
+https://dblp.org/rec/conf/i-semantics/AbelHHK10,"Linkage, aggregation, alignment and enrichment of public user profiles with Mypes.",https://doi.org/10.1145/1839707.1839721,https://doi.org/10.1145/1839707.1839721
+https://dblp.org/rec/conf/i-semantics/Abi-LahoudRM17,Linking Data To Understand The Fintech Ecosystem.,,https://ceur-ws.org/Vol-2044/paper18/
+https://dblp.org/rec/conf/i-semantics/AcetaFS21,TODO: A Core Ontology for Task-Oriented Dialogue Systems in Industry 4.0.,https://doi.org/10.3233/SSW210031,https://doi.org/10.3233/SSW210031
+https://dblp.org/rec/conf/i-semantics/AdamouCGP13,The foundations of virtual ontology networks.,https://doi.org/10.1145/2506182.2506189,https://doi.org/10.1145/2506182.2506189
+https://dblp.org/rec/conf/i-semantics/AdamoudAM17,Supporting virtual integration of Linked Data with just-in-time query recompilation.,https://doi.org/10.1145/3132218.3132227,https://doi.org/10.1145/3132218.3132227
+https://dblp.org/rec/conf/i-semantics/AdebayoCB16,A Supervised KeyPhrase Extraction System.,https://doi.org/10.1145/2993318.2993323,https://doi.org/10.1145/2993318.2993323
+https://dblp.org/rec/conf/i-semantics/AdrianKMD09,Using iDocument for Document Categorization in Nepomuk Social Semantic Desktop.,,
+https://dblp.org/rec/conf/i-semantics/Afzal09,Applying Ontological Framework for Finding Links into the Future from Web.,,
+https://dblp.org/rec/conf/i-semantics/Agt-RickauerHS18,Semantic Annotation and Automated Extraction of Audio-Visual Staging Patterns in Large-Scale Empirical Film Studies.,,https://ceur-ws.org/Vol-2198/paper_109.pdf
+https://dblp.org/rec/conf/i-semantics/AhmedSN18,On the Effect of Geometries Simplification on Geo-spatial Link Discovery.,https://doi.org/10.1016/J.PROCS.2018.09.014,https://doi.org/10.1016/J.PROCS.2018.09.014
+https://dblp.org/rec/conf/i-semantics/AhmedSN23,COBALT: A Content-Based Similarity Approach for Link Discovery over Geospatial Knowledge Graphs.,https://doi.org/10.3233/SSW230013,https://doi.org/10.3233/SSW230013
+https://dblp.org/rec/conf/i-semantics/AkaichiK22,A Semantic Policy Language for Usage Control.,,https://ceur-ws.org/Vol-3235/paper10.pdf
+https://dblp.org/rec/conf/i-semantics/AlamBDEFGHMNST21,Ontology Modelling for Materials Science Experiments.,,https://ceur-ws.org/Vol-2941/paper11.pdf
+https://dblp.org/rec/conf/i-semantics/AlexopoulosL17,"Modeling, Measuring and Exploiting Concept Drift in the Labour Market Domain.",,https://ceur-ws.org/Vol-2063/dal-paper1.pdf
+https://dblp.org/rec/conf/i-semantics/AlexopoulosPWK11,Exploiting ontological relations for automatic semantic tag recommendation.,https://doi.org/10.1145/2063518.2063532,https://doi.org/10.1145/2063518.2063532
+https://dblp.org/rec/conf/i-semantics/AlexopoulosVG13,Knowledge Tagger: Customizable Semantic Entity Resolution using Ontological Evidence.,,https://ceur-ws.org/Vol-1026/paper4.pdf
+https://dblp.org/rec/conf/i-semantics/AliCLC21,Personalizing Type-Based Facet Ranking Using BERT Embeddings.,https://doi.org/10.3233/SSW210040,https://doi.org/10.3233/SSW210040
+https://dblp.org/rec/conf/i-semantics/AliFIKH18,Cross-Lingual Ontology Enrichment Based on Multi-Agent Architecture.,https://doi.org/10.1016/J.PROCS.2018.09.013,https://doi.org/10.1016/J.PROCS.2018.09.013
+https://dblp.org/rec/conf/i-semantics/AllgaierVTOH21,LLOD-Driven Bilingual Word Embeddings Rivaling Cross-Lingual Transformers in Quality of Life Concept Detection from French Online Health Communities.,https://doi.org/10.3233/SSW210037,https://doi.org/10.3233/SSW210037
+https://dblp.org/rec/conf/i-semantics/AlmuhaimeedF15,A semantic method for multiple resources exploitation.,https://doi.org/10.1145/2814864.2814868,https://doi.org/10.1145/2814864.2814868
+https://dblp.org/rec/conf/i-semantics/AlnemrPM10,Enabling reputation interoperability through semantic technologies.,https://doi.org/10.1145/1839707.1839723,https://doi.org/10.1145/1839707.1839723
+https://dblp.org/rec/conf/i-semantics/AlpersBPWO19,Legal challenges of Robotic Process Automation (RPA) in administrative services.,,https://ceur-ws.org/Vol-2451/paper-01.pdf
+https://dblp.org/rec/conf/i-semantics/AnadiotisAVZ09,Linked Data for the masses - using open source infrastructure and the inbound/outbound Linked Data approach to bring added value to end user applications.,,
+https://dblp.org/rec/conf/i-semantics/AngeleSF22,Towards a Knowledge Access & Representation Layer.,,https://ceur-ws.org/Vol-3235/paper18.pdf
+https://dblp.org/rec/conf/i-semantics/AngroshCS10,Ontology-based modelling of related work sections in research articles: using CRFs for developing semantic data based information retrieval systems.,https://doi.org/10.1145/1839707.1839725,https://doi.org/10.1145/1839707.1839725
+https://dblp.org/rec/conf/i-semantics/AngroshCS11,Contextual information extraction in research articles: a case of developing contextual RDF data for ESWC papers.,https://doi.org/10.1145/2063518.2063557,https://doi.org/10.1145/2063518.2063557
+https://dblp.org/rec/conf/i-semantics/ArasTGMS18,Get Your Hands Dirty: Evaluating Word2Vec Models for Patent Data.,,https://ceur-ws.org/Vol-2198/paper_123.pdf
+https://dblp.org/rec/conf/i-semantics/ArndtABR15,Knowledge base shipping to the linked open data cloud.,https://doi.org/10.1145/2814864.2814885,https://doi.org/10.1145/2814864.2814885
+https://dblp.org/rec/conf/i-semantics/ArndtR16,Quit Diff: Calculating the Delta Between RDF Datasets Under Version Control.,https://doi.org/10.1145/2993318.2993349,https://doi.org/10.1145/2993318.2993349
+https://dblp.org/rec/conf/i-semantics/ArndtRM16,Distributed Collaboration on RDF Datasets Using Git: Towards the Quit Store.,https://doi.org/10.1145/2993318.2993328,https://doi.org/10.1145/2993318.2993328
+https://dblp.org/rec/conf/i-semantics/ArndtVPAHR21,A Visual SHACL Shapes Editor Based On OntoPad.,,https://ceur-ws.org/Vol-2941/paper16.pdf
+https://dblp.org/rec/conf/i-semantics/AssfalgNJK19,Controlling Internet of Things devices with Read-Write Linked Data Interfaces using Data-Driven Workflows.,,https://ceur-ws.org/Vol-2451/paper-02.pdf
+https://dblp.org/rec/conf/i-semantics/AtemezingT14,Information content based ranking metric for linked open vocabularies.,https://doi.org/10.1145/2660517.2660533,https://doi.org/10.1145/2660517.2660533
+https://dblp.org/rec/conf/i-semantics/AtenciaS09,Reaching Semantic Agreements through Interaction.,,
+https://dblp.org/rec/conf/i-semantics/AttardSRH13,Ontology-based situation recognition for context-aware systems.,https://doi.org/10.1145/2506182.2506197,https://doi.org/10.1145/2506182.2506197
+https://dblp.org/rec/conf/i-semantics/AyadiPA09,"A Proposed Ontology-based Algebra For Service Annotation, Discovery, and Composition.",,
+https://dblp.org/rec/conf/i-semantics/AzwariW15,Updating OWL2 ontologies using pruned rulesets.,https://doi.org/10.1145/2814864.2814871,https://doi.org/10.1145/2814864.2814871
+https://dblp.org/rec/conf/i-semantics/BaasWRDF22,Adding Domain Knowledge to Improve Entity Resolution in 17th and 18th Century Amsterdam Archival Records.,https://doi.org/10.3233/SSW220012,https://doi.org/10.3233/SSW220012
+https://dblp.org/rec/conf/i-semantics/BabalouK19,On Using Subjective Logic to Build Consistent Merged Ontologies.,,https://ceur-ws.org/Vol-2451/paper-03.pdf
+https://dblp.org/rec/conf/i-semantics/BabalouK19a,GMRs: Reconciliation of Generic Merge Requirements in Ontology Integration.,,https://ceur-ws.org/Vol-2451/paper-04.pdf
+https://dblp.org/rec/conf/i-semantics/BaderM19,The Semantic Asset Administration Shell.,https://doi.org/10.1007/978-3-030-33220-4_12,https://doi.org/10.1007/978-3-030-33220-4_12
+https://dblp.org/rec/conf/i-semantics/BaderO17,Semantic Annotation of Heterogeneous Data Sources: Towards an Integrated Information Framework for Service Technicians.,https://doi.org/10.1145/3132218.3132221,https://doi.org/10.1145/3132218.3132221
+https://dblp.org/rec/conf/i-semantics/BaderWK17,Evaluation Environment for Linked Data Web Services.,,https://ceur-ws.org/Vol-2063/salad-paper1.pdf
+https://dblp.org/rec/conf/i-semantics/Baghernezhad-Tabasi21,IOPE: Interactive Ontology Population and Enrichment.,,https://ceur-ws.org/Vol-2941/paper7.pdf
+https://dblp.org/rec/conf/i-semantics/BaiZ09,Exchanging Knowledge in Concise Bounded Descriptions. An Approach to Support Collaborative Ontology Development in a Distributed Environment.,,
+https://dblp.org/rec/conf/i-semantics/BajwaCV19,Interaction Network Analysis Using Semantic Similarity Based on Translation Embeddings.,https://doi.org/10.1007/978-3-030-33220-4_18,https://doi.org/10.1007/978-3-030-33220-4_18
+https://dblp.org/rec/conf/i-semantics/BaldoniBPR11,ArsEmotica: emotions in the social semantic web.,https://doi.org/10.1145/2063518.2063542,https://doi.org/10.1145/2063518.2063542
+https://dblp.org/rec/conf/i-semantics/BarnickelBP10,Incorporating semantic bridges into information flow of cross-organizational business process models.,https://doi.org/10.1145/1839707.1839729,https://doi.org/10.1145/1839707.1839729
+https://dblp.org/rec/conf/i-semantics/BarrosSOGP21,Requirements for an Ontology of Digital Twins.,,https://ceur-ws.org/Vol-2941/paper19.pdf
+https://dblp.org/rec/conf/i-semantics/BartusiakL16,Semantic Processing for the Conversion of Unstructured Documents into Structured Information in the Enterprise Context.,https://doi.org/10.1145/2993318.2993341,https://doi.org/10.1145/2993318.2993341
+https://dblp.org/rec/conf/i-semantics/BatsakisP10,"SOWL: spatio-temporal representation, reasoning and querying over the semantic web.",https://doi.org/10.1145/1839707.1839726,https://doi.org/10.1145/1839707.1839726
+https://dblp.org/rec/conf/i-semantics/BaumerKOG18,Towards a Multi-Stage Approach to Detect Privacy Breaches in Physician Reviews.,,https://ceur-ws.org/Vol-2198/paper_97.pdf
+https://dblp.org/rec/conf/i-semantics/BecherHE17,Exploring Concept Representations for Concept Drift Detection.,,https://ceur-ws.org/Vol-2063/dal-paper4.pdf
+https://dblp.org/rec/conf/i-semantics/BeckerBCDEMMPPR23,Virtual Reality Based Access to Knowledge Graphs for History Research.,https://doi.org/10.3233/SSW230011,https://doi.org/10.3233/SSW230011
+https://dblp.org/rec/conf/i-semantics/BeekFV17,LOD-a-lot: A Single-File Enabler for Data Science.,https://doi.org/10.1145/3132218.3132241,https://doi.org/10.1145/3132218.3132241
+https://dblp.org/rec/conf/i-semantics/BeelenOK17,Historical Event Search in Digital Heritage: Studying Commemorative Practices in Diachronic Corpora.,,https://ceur-ws.org/Vol-2063/events-paper2.pdf
+https://dblp.org/rec/conf/i-semantics/Begler19,A standard language for the description of datasets obtained in experimental studies.,,https://ceur-ws.org/Vol-2451/paper-05.pdf
+https://dblp.org/rec/conf/i-semantics/BekkumKNKKPR16,Ontology Engineering for the Design and Implementation of Personal Pervasive Lifestyle Support.,,https://ceur-ws.org/Vol-1695/paper37.pdf
+https://dblp.org/rec/conf/i-semantics/Benfell10,A multi-responsive communication architecture for web service description and discovery.,https://doi.org/10.1145/1839707.1839749,https://doi.org/10.1145/1839707.1839749
+https://dblp.org/rec/conf/i-semantics/BenfellL09,Defining a Pragmatic Based Web-service Discovery Mechanism.,,
+https://dblp.org/rec/conf/i-semantics/BenfellL11,Extending a multi-responsive communication architecture for web service description.,https://doi.org/10.1145/2063518.2063552,https://doi.org/10.1145/2063518.2063552
+https://dblp.org/rec/conf/i-semantics/BenoFKP19,Doc2RDFa: Semantic Annotation for Web Documents.,,https://ceur-ws.org/Vol-2451/paper-06.pdf
+https://dblp.org/rec/conf/i-semantics/BensmannPKZD20,"Semantic Annotation, Representation and Linking of Survey Data.",https://doi.org/10.1007/978-3-030-59833-4_4,https://doi.org/10.1007/978-3-030-59833-4_4
+https://dblp.org/rec/conf/i-semantics/BergerSV09,Bugtrackers triplification.,,
+https://dblp.org/rec/conf/i-semantics/BergmannBEHKSS13,Linked Soccer Data.,,https://ceur-ws.org/Vol-1026/paper6.pdf
+https://dblp.org/rec/conf/i-semantics/BergmannBEHKSS13a,Generating a linked soccer dataset.,https://doi.org/10.1145/2506182.2506203,https://doi.org/10.1145/2506182.2506203
+https://dblp.org/rec/conf/i-semantics/BhattacharyyaBX19,Evaluating Generalized Path Queries by Integrating Algebraic Path Problem Solving with Graph Pattern Matching.,https://doi.org/10.1007/978-3-030-33220-4_8,https://doi.org/10.1007/978-3-030-33220-4_8
+https://dblp.org/rec/conf/i-semantics/BisenAMCGKMMDDG22,Wikibase as an Infrastructure for Community Documents: The example of the Disability Wiki Platform.,,https://ceur-ws.org/Vol-3235/paper14.pdf
+https://dblp.org/rec/conf/i-semantics/BissiriouC14,Big data analysis and query optimization improve HadoopDB performance.,https://doi.org/10.1145/2660517.2660529,https://doi.org/10.1145/2660517.2660529
+https://dblp.org/rec/conf/i-semantics/BlessDKRKRF21,Raising Awareness of Data Sharing Consent Through Knowledge Graph Visualisation.,https://doi.org/10.3233/SSW210034,https://doi.org/10.3233/SSW210034
+https://dblp.org/rec/conf/i-semantics/Blumauer09,SKOS Thesaurus Management based on Linked Data with Poolparty.,,
+https://dblp.org/rec/conf/i-semantics/BocconiT13,Rethinking service oriented architectures in the semantic web.,https://doi.org/10.1145/2506182.2506199,https://doi.org/10.1145/2506182.2506199
+https://dblp.org/rec/conf/i-semantics/Boer22,Knowledge Graphs for Impactful Data Science (keynote).,,https://ceur-ws.org/Vol-3235/keynote1.pdf
+https://dblp.org/rec/conf/i-semantics/BohmHN12,Scalable peer-to-peer-based RDF management.,https://doi.org/10.1145/2362499.2362523,https://doi.org/10.1145/2362499.2362523
+https://dblp.org/rec/conf/i-semantics/BohmNFGHKLMS10,Linking open government data: what journalists wish they had known.,https://doi.org/10.1145/1839707.1839751,https://doi.org/10.1145/1839707.1839751
+https://dblp.org/rec/conf/i-semantics/BojarsDLP19,LinkedSaeima: A Linked Open Dataset of Latvia's Parliamentary Debates.,https://doi.org/10.1007/978-3-030-33220-4_4,https://doi.org/10.1007/978-3-030-33220-4_4
+https://dblp.org/rec/conf/i-semantics/BorowiHHEBMC17,Ontology-driven Visual Exploration of Preclinical Research Data in the Spinal Cord Injury Domain.,,https://ceur-ws.org/Vol-2044/paper4/
+https://dblp.org/rec/conf/i-semantics/BosanskaHL22,A Pipeline for Population and Analysis of Personal Health Knowledge Graphs (PHKGs).,,https://ceur-ws.org/Vol-3235/paper8.pdf
+https://dblp.org/rec/conf/i-semantics/BoschAN015,The role of reasoning for RDF validation.,https://doi.org/10.1145/2814864.2814867,https://doi.org/10.1145/2814864.2814867
+https://dblp.org/rec/conf/i-semantics/BothHIIBA17,Linking Dutch World War II Cultural Heritage Collections with Events Extracted by Machines and Crowds.,,https://ceur-ws.org/Vol-2063/events-paper3.pdf
+https://dblp.org/rec/conf/i-semantics/BothNULLS14,"A service-oriented search framework for full text, geospatial and semantic search.",https://doi.org/10.1145/2660517.2660528,https://doi.org/10.1145/2660517.2660528
+https://dblp.org/rec/conf/i-semantics/BothPBHIHSWFG21,A Question Answering System for retrieving German COVID-19 data driven and quality-controlled by Semantic Technology.,,https://ceur-ws.org/Vol-2941/paper15.pdf
+https://dblp.org/rec/conf/i-semantics/BothWGHL15,The GeoKnow Generator Workbench - An Integrated Tool Supporting the Linked Data Lifecycle for Enterprise Usage.,,https://ceur-ws.org/Vol-1481/paper28.pdf
+https://dblp.org/rec/conf/i-semantics/BouterBGKGH22,Towards a Modular Ontology for Event-Based Data Sharing in the Logistics Domain.,,https://ceur-ws.org/Vol-3235/paper21.pdf
+https://dblp.org/rec/conf/i-semantics/BrandtK11,"Syntax, semantics and pragmatics in communication.",https://doi.org/10.1145/2063518.2063549,https://doi.org/10.1145/2063518.2063549
+https://dblp.org/rec/conf/i-semantics/BrasoveanuNWS23,Framing Few-Shot Knowledge Graph Completion with Large Language Models.,,https://ceur-ws.org/Vol-3510/paper_nlp_4.pdf
+https://dblp.org/rec/conf/i-semantics/BraunK19,Verifying the Integrity of Information along a Supply Chain using Linked Data and Smart Contracts.,,https://ceur-ws.org/Vol-2451/paper-07.pdf
+https://dblp.org/rec/conf/i-semantics/BraunK19a,Verifying the Integrity of Hyperlinked Information Using Linked Data and Smart Contracts.,https://doi.org/10.1007/978-3-030-33220-4_28,https://doi.org/10.1007/978-3-030-33220-4_28
+https://dblp.org/rec/conf/i-semantics/BraunSZ09,Semantics to the Bookmarks: A Review of Social Semantic Bookmarking Systems.,,
+https://dblp.org/rec/conf/i-semantics/BretelerGBD23,The FLINT Ontology: An Actor-Based Model of Legal Relations.,https://doi.org/10.3233/SSW230016,https://doi.org/10.3233/SSW230016
+https://dblp.org/rec/conf/i-semantics/BretonBCT24,Leveraging Semantic Model and LLM for Bootstrapping a Legal Entity Extraction: An Industrial Use Case.,https://doi.org/10.3233/SSW240004,https://doi.org/10.3233/SSW240004
+https://dblp.org/rec/conf/i-semantics/BrockmeierLPHP21,On-Demand and Lightweight Knowledge Graph Generation - a Demonstration with DBpedia.,,https://ceur-ws.org/Vol-2941/paper2.pdf
+https://dblp.org/rec/conf/i-semantics/BrummerBEFKH14,DataID: towards semantically rich metadata for complex datasets.,https://doi.org/10.1145/2660517.2660538,https://doi.org/10.1145/2660517.2660538
+https://dblp.org/rec/conf/i-semantics/BrunsTGS23,TRANSRAZ Data Model: Towards a Geosocial Representation of Historical Cities.,https://doi.org/10.3233/SSW230012,https://doi.org/10.3233/SSW230012
+https://dblp.org/rec/conf/i-semantics/BumansC10,RDB2OWL: a practical approach for transforming RDB data into RDF/OWL.,https://doi.org/10.1145/1839707.1839739,https://doi.org/10.1145/1839707.1839739
+https://dblp.org/rec/conf/i-semantics/CalbimonteDKLS19,Semi-automatic Semantic Enrichment of Personal Data Streams.,,https://ceur-ws.org/Vol-2451/paper-08.pdf
+https://dblp.org/rec/conf/i-semantics/CalbimonteDS19,Towards Semantic Models for Profiling and Behavior Change in eHealth Applications.,,https://ceur-ws.org/Vol-2451/paper-09.pdf
+https://dblp.org/rec/conf/i-semantics/CamardaMA12,"LodLive, exploring the web of data.",https://doi.org/10.1145/2362499.2362532,https://doi.org/10.1145/2362499.2362532
+https://dblp.org/rec/conf/i-semantics/CanadasOST10,RuleModeler: a rich internet application for knowledge modeling.,https://doi.org/10.1145/1839707.1839742,https://doi.org/10.1145/1839707.1839742
+https://dblp.org/rec/conf/i-semantics/Carstens09,Integrated Ontologies for the Semantic Web: Experiences from Modeling a Research Context Ontology.,,
+https://dblp.org/rec/conf/i-semantics/CelinoC10,Towards the formalization of interaction semantics.,https://doi.org/10.1145/1839707.1839719,https://doi.org/10.1145/1839707.1839719
+https://dblp.org/rec/conf/i-semantics/CeransBOLGS24,Towards Visual Federated SPARQL Queries.,,https://ceur-ws.org/Vol-3759/paper24.pdf
+https://dblp.org/rec/conf/i-semantics/CeransOLHRGKSS19,Visual Query Environment over RDF Data.,,https://ceur-ws.org/Vol-2451/paper-32.pdf
+https://dblp.org/rec/conf/i-semantics/ChampinP10,SIOC in action representing the dynamics of online communities.,https://doi.org/10.1145/1839707.1839722,https://doi.org/10.1145/1839707.1839722
+https://dblp.org/rec/conf/i-semantics/CharalambidisTK15,SemaGrow: optimizing federated SPARQL queries.,https://doi.org/10.1145/2814864.2814886,https://doi.org/10.1145/2814864.2814886
+https://dblp.org/rec/conf/i-semantics/ChenL15,Living semantic platform.,https://doi.org/10.1145/2814864.2814893,https://doi.org/10.1145/2814864.2814893
+https://dblp.org/rec/conf/i-semantics/ChenZZCC12,Building semantic information search platform with extended Sesame framework.,https://doi.org/10.1145/2362499.2362531,https://doi.org/10.1145/2362499.2362531
+https://dblp.org/rec/conf/i-semantics/ChrysakisDFPP17,PRESS: A Publication REpository Semantic System.,,https://ceur-ws.org/Vol-2044/paper2/
+https://dblp.org/rec/conf/i-semantics/ChudasamaPRITV24,Semantically Describing Predictive Models for Interpretable Insights into Lung Cancer Relapse.,https://doi.org/10.3233/SSW240012,https://doi.org/10.3233/SSW240012
+https://dblp.org/rec/conf/i-semantics/ChudasamaPRV23,Enhancing Interpretability of Machine Learning Models over Knowledge Graphs.,,https://ceur-ws.org/Vol-3526/paper-05.pdf
+https://dblp.org/rec/conf/i-semantics/Cifuentes-SilvaSG11,Towards an architecture and adoption process for linked data technologies in open government contexts: a case study for the Library of Congress of Chile.,https://doi.org/10.1145/2063518.2063529,https://doi.org/10.1145/2063518.2063529
+https://dblp.org/rec/conf/i-semantics/CochezKP24,First International Workshop on Scaling Knowledge Graphs for Industry: Summary.,,https://ceur-ws.org/Vol-3759/workshop2.pdf
+https://dblp.org/rec/conf/i-semantics/CoelhoMPE17,TANKER: Distributed Architecture for Named EntityRecognition and Disambiguation.,,https://ceur-ws.org/Vol-2044/paper5/
+https://dblp.org/rec/conf/i-semantics/CohenHM12,First steps towards a context aware ontology-driven reporting system.,https://doi.org/10.1145/2362499.2362514,https://doi.org/10.1145/2362499.2362514
+https://dblp.org/rec/conf/i-semantics/ConsoliZBKL17,Semantic Mining of Respiratory Health Knowledge from Scientific Literature.,,https://ceur-ws.org/Vol-2044/paper6/
+https://dblp.org/rec/conf/i-semantics/CorrendoCPB16,Enhancing Marine Industry Risk Management Through Semantic Reconciliation of Underwater IoT Data Streams.,https://doi.org/10.1145/2993318.2993330,https://doi.org/10.1145/2993318.2993330
+https://dblp.org/rec/conf/i-semantics/CoskunHLOPSS09,Towards a Corporate Semantic Web.,,
+https://dblp.org/rec/conf/i-semantics/CoskunLHP09,Applying Ontology Modularization for Corporate Ontology Engineering.,,
+https://dblp.org/rec/conf/i-semantics/CostetchiANRP24,Mapping Workbench: A collaborative platform for mapping complex XML data to RDF.,,https://ceur-ws.org/Vol-3759/paper23.pdf
+https://dblp.org/rec/conf/i-semantics/CostetchiVN23,A Mapping Lifecycle for Public Procurement Data.,,https://ceur-ws.org/Vol-3526/paper-02.pdf
+https://dblp.org/rec/conf/i-semantics/Cruz-ToledoBD09,PDB2RDF - Exposing Molecular and Experimental Knowledge on the Semantic Web.,,
+https://dblp.org/rec/conf/i-semantics/CutronaPBP21,NEST: Neural Soft Type Constraints to Improve Entity Linking in Tables.,https://doi.org/10.3233/SSW210033,https://doi.org/10.3233/SSW210033
+https://dblp.org/rec/conf/i-semantics/CyganiakMP10,Self-service linked government data with dcat and gridworks.,https://doi.org/10.1145/1839707.1839754,https://doi.org/10.1145/1839707.1839754
+https://dblp.org/rec/conf/i-semantics/DadzieUMA18,Value-driven partner search for Energy from Waste projects.,https://doi.org/10.1016/J.PROCS.2018.09.003,https://doi.org/10.1016/J.PROCS.2018.09.003
+https://dblp.org/rec/conf/i-semantics/DaiberJHM13,Improving efficiency and accuracy in multilingual entity extraction.,https://doi.org/10.1145/2506182.2506198,https://doi.org/10.1145/2506182.2506198
+https://dblp.org/rec/conf/i-semantics/Damjanovic09,Reengineering Patterns for Ontologizing the Business Processes.,,
+https://dblp.org/rec/conf/i-semantics/DamKN23,Policy Patterns for Usage Control in Data Spaces.,,https://ceur-ws.org/Vol-3510/paper_sem4tra_1.pdf
+https://dblp.org/rec/conf/i-semantics/DaoD24,Unveiling SHACL Security Issues: Data Leakage and Validation Bypass.,,https://ceur-ws.org/Vol-3759/paper16.pdf
+https://dblp.org/rec/conf/i-semantics/DaranyiWKPK16,A Physical Metaphor to Study Semantic Drift.,,https://ceur-ws.org/Vol-1695/paper41.pdf
+https://dblp.org/rec/conf/i-semantics/DasguptaDNSVS17,DemandMiner: Extraction and Visualization of Product Demands from Open Web.,https://doi.org/10.1145/3132218.3132222,https://doi.org/10.1145/3132218.3132222
+https://dblp.org/rec/conf/i-semantics/DasguptaNDS22,A Joint Model for Detecting Causal Sentences and Cause-Effect Relations from Text.,https://doi.org/10.3233/SSW220021,https://doi.org/10.3233/SSW220021
+https://dblp.org/rec/conf/i-semantics/David15,Semantic Content Description for the Visual Arts.,,https://ceur-ws.org/Vol-1481/paper10.pdf
+https://dblp.org/rec/conf/i-semantics/DaviesZH10,Addressing the cognitive difficulties of expressing n-ary relations in semantic web data.,https://doi.org/10.1145/1839707.1839717,https://doi.org/10.1145/1839707.1839717
+https://dblp.org/rec/conf/i-semantics/Debattista0A14,Representing dataset quality metadata using multi-dimensional views.,https://doi.org/10.1145/2660517.2660525,https://doi.org/10.1145/2660517.2660525
+https://dblp.org/rec/conf/i-semantics/DebattistaCB18,Assessing the Quality of Geospatial Linked Data - Experiences from Ordnance Survey Ireland (OSi).,,https://ceur-ws.org/Vol-2198/paper_94.pdf
+https://dblp.org/rec/conf/i-semantics/DeBellis18,A Universal Moral Grammar (UMG) Ontology.,https://doi.org/10.1016/J.PROCS.2018.09.023,https://doi.org/10.1016/J.PROCS.2018.09.023
+https://dblp.org/rec/conf/i-semantics/DebruyneFS21,Do you need a knowledge graph? Helping organizations determine whether a knowledge graph is needed for their problems with the Smals KG Checklist.,,https://ceur-ws.org/Vol-2941/paper3.pdf
+https://dblp.org/rec/conf/i-semantics/Degbelo17,A Snapshot of Ontology Evaluation Criteria and Strategies.,https://doi.org/10.1145/3132218.3132219,https://doi.org/10.1145/3132218.3132219
+https://dblp.org/rec/conf/i-semantics/DeuschelGHS14,Semantically faceted navigation with topic pies.,https://doi.org/10.1145/2660517.2660522,https://doi.org/10.1145/2660517.2660522
+https://dblp.org/rec/conf/i-semantics/DhouibFT19,An Ontology Alignment Approach Combining Word Embedding and the Radius Measure.,https://doi.org/10.1007/978-3-030-33220-4_14,https://doi.org/10.1007/978-3-030-33220-4_14
+https://dblp.org/rec/conf/i-semantics/DiefenbachLMM16,Computing the Semantic Relatedness of Music Genre using Semantic Web Data.,,https://ceur-ws.org/Vol-1695/paper23.pdf
+https://dblp.org/rec/conf/i-semantics/DimouVSMW15,Machine-interpretable dataset and service descriptions for heterogeneous data access and retrieval.,https://doi.org/10.1145/2814864.2814873,https://doi.org/10.1145/2814864.2814873
+https://dblp.org/rec/conf/i-semantics/DjebaliR15,SimplePARQL: a new approach using keywords over SPARQL to query the web of data.,https://doi.org/10.1145/2814864.2814890,https://doi.org/10.1145/2814864.2814890
+https://dblp.org/rec/conf/i-semantics/DjedidiA09,Ontology Change Management.,,
+https://dblp.org/rec/conf/i-semantics/DojchinovskiKRK16,DBpedia Links: The Crossroad of Links for the Web of Data.,,https://ceur-ws.org/Vol-1695/paper21.pdf
+https://dblp.org/rec/conf/i-semantics/DonatoGMPPS20,QueDI: From Knowledge Graph Querying to Data Visualization.,https://doi.org/10.1007/978-3-030-59833-4_5,https://doi.org/10.1007/978-3-030-59833-4_5
+https://dblp.org/rec/conf/i-semantics/DorpinghausJ19,Semantic Knowledge Graph Embeddings for biomedical Research: Data Integration using Linked Open Data.,,https://ceur-ws.org/Vol-2451/paper-10.pdf
+https://dblp.org/rec/conf/i-semantics/DorpinghausKDMJ18,SCAIView - A Semantic Search Engine for Biomedical Research Utilizing a Microservice Architecture.,,https://ceur-ws.org/Vol-2198/paper_99.pdf
+https://dblp.org/rec/conf/i-semantics/DoTAWKT15,Toward a statistical data integration environment: the role of semantic metadata.,https://doi.org/10.1145/2814864.2814879,https://doi.org/10.1145/2814864.2814879
+https://dblp.org/rec/conf/i-semantics/DraganHD11,The semantic desktop at work: interlinking notes.,https://doi.org/10.1145/2063518.2063521,https://doi.org/10.1145/2063518.2063521
+https://dblp.org/rec/conf/i-semantics/DudchukKH10,Ontos clip and share.,https://doi.org/10.1145/1839707.1839756,https://doi.org/10.1145/1839707.1839756
+https://dblp.org/rec/conf/i-semantics/DulackaSB12,Validation of music metadata via game with a purpose.,https://doi.org/10.1145/2362499.2362526,https://doi.org/10.1145/2362499.2362526
+https://dblp.org/rec/conf/i-semantics/EfeogluS24,Exploring Prompt Generation Utilizing Graph Search Algorithms for Ontology Matching.,https://doi.org/10.3233/SSW240003,https://doi.org/10.3233/SSW240003
+https://dblp.org/rec/conf/i-semantics/EhrlingerKW15,Semi-Automatically Generated Hybrid Ontologies for Information Integration.,,https://ceur-ws.org/Vol-1481/paper30.pdf
+https://dblp.org/rec/conf/i-semantics/EhrlingerW16,Towards a Definition of Knowledge Graphs.,,https://ceur-ws.org/Vol-1695/paper4.pdf
+https://dblp.org/rec/conf/i-semantics/EkaputraAKFG19,Semantic Containers for Data Mobility: A Seismic Activity Use Case.,,https://ceur-ws.org/Vol-2451/paper-11.pdf
+https://dblp.org/rec/conf/i-semantics/EkaputraDKNTTA17,Towards Open Data Mashups for Data Journalism.,,https://ceur-ws.org/Vol-2044/paper17/
+https://dblp.org/rec/conf/i-semantics/EkaputraSSB15,Knowledge Change Management and Analysis for Multi-Disciplinary Engineering Environments.,,https://ceur-ws.org/Vol-1481/paper5.pdf
+https://dblp.org/rec/conf/i-semantics/EkaputraSSB16,Knowledge Change Management and Analysis during the Engineering of Cyber Physical Production Systems: A Use Case of Hydro Power Plants.,https://doi.org/10.1145/2993318.2993325,https://doi.org/10.1145/2993318.2993325
+https://dblp.org/rec/conf/i-semantics/EkaputraSWB13,An analysis framework for ontology querying tools.,https://doi.org/10.1145/2506182.2506183,https://doi.org/10.1145/2506182.2506183
+https://dblp.org/rec/conf/i-semantics/EkaputraWBS22,Towards a Standardized Description of SemanticWeb Machine Learning Systems.,,https://ceur-ws.org/Vol-3235/paper23.pdf
+https://dblp.org/rec/conf/i-semantics/EkelhartKK18,Taming the logs - Vocabularies for semantic security analysis.,https://doi.org/10.1016/J.PROCS.2018.09.011,https://doi.org/10.1016/J.PROCS.2018.09.011
+https://dblp.org/rec/conf/i-semantics/ElahiEGC21,Question Answering on RDF Data based on Grammars Automatically Generated from Lemon Models.,,https://ceur-ws.org/Vol-2941/paper13.pdf
+https://dblp.org/rec/conf/i-semantics/EllVS11,Deriving human-readable labels from SPARQL queries.,https://doi.org/10.1145/2063518.2063535,https://doi.org/10.1145/2063518.2063535
+https://dblp.org/rec/conf/i-semantics/EngleitnerKSKE21,Knowledge Graph Embeddings for News Article Tag Recommendation.,,https://ceur-ws.org/Vol-2941/paper4.pdf
+https://dblp.org/rec/conf/i-semantics/ErdurAHD13,Monitoring the dynamism of the linked data space through environment abstraction.,https://doi.org/10.1145/2506182.2506193,https://doi.org/10.1145/2506182.2506193
+https://dblp.org/rec/conf/i-semantics/EricksonRSZDH11,TWC International Open Government Dataset Catalog.,https://doi.org/10.1145/2063518.2063555,https://doi.org/10.1145/2063518.2063555
+https://dblp.org/rec/conf/i-semantics/ErmilovAS13,User-driven semantic mapping of tabular data.,https://doi.org/10.1145/2506182.2506196,https://doi.org/10.1145/2506182.2506196
+https://dblp.org/rec/conf/i-semantics/ErmilovHLM15,kOre: Using Linked Data for OpenScience Information Integration.,,https://ceur-ws.org/Vol-1481/paper22.pdf
+https://dblp.org/rec/conf/i-semantics/ErmilovP15,Data licensing on the cloud: empirical insights and implications for linked data.,https://doi.org/10.1145/2814864.2814878,https://doi.org/10.1145/2814864.2814878
+https://dblp.org/rec/conf/i-semantics/Esnaola-Gonzalez17,Towards a Semantic Outlier Detection Framework in Wireless Sensor Networks.,https://doi.org/10.1145/3132218.3132226,https://doi.org/10.1145/3132218.3132226
+https://dblp.org/rec/conf/i-semantics/EstevesMMDZL16,MEX Interfaces: Automating Machine Learning Metadata Generation.,https://doi.org/10.1145/2993318.2993320,https://doi.org/10.1145/2993318.2993320
+https://dblp.org/rec/conf/i-semantics/EstevesMNSUAL15,MEX vocabulary: a lightweight interchange format for machine learning experiments.,https://doi.org/10.1145/2814864.2814883,https://doi.org/10.1145/2814864.2814883
+https://dblp.org/rec/conf/i-semantics/EstevesPV24,An Overview of the NeXt-Generation Data Governance Workshop 2024.,,https://ceur-ws.org/Vol-3759/workshop1.pdf
+https://dblp.org/rec/conf/i-semantics/EstevesR22,Semantifying the Governance of Data in Europe.,,https://ceur-ws.org/Vol-3235/paper17.pdf
+https://dblp.org/rec/conf/i-semantics/EstevesRP023,Semantics for Implementing Data Reuse and Altruism Under EU's Data Governance Act.,https://doi.org/10.3233/SSW230015,https://doi.org/10.3233/SSW230015
+https://dblp.org/rec/conf/i-semantics/EyharabideLM19,MusicKG: Representations of Sound and Music in the Middle Ages as Linked Open Data.,https://doi.org/10.1007/978-3-030-33220-4_5,https://doi.org/10.1007/978-3-030-33220-4_5
+https://dblp.org/rec/conf/i-semantics/FabraHAOVL13,A practical experience concerning the parallel semantic annotation of a large-scale data collection.,https://doi.org/10.1145/2506182.2506191,https://doi.org/10.1145/2506182.2506191
+https://dblp.org/rec/conf/i-semantics/FaiscaR16,Decentralized Semantic Identity.,https://doi.org/10.1145/2993318.2993348,https://doi.org/10.1145/2993318.2993348
+https://dblp.org/rec/conf/i-semantics/FarberR15,A Statistical Comparison of Current Knowledge Bases.,,https://ceur-ws.org/Vol-1481/paper6.pdf
+https://dblp.org/rec/conf/i-semantics/FathallaGSLKSBH24,The Helmholtz Digitization Ontology: Representing Digital Assets in the Helmholtz Digital Ecosystem.,,https://ceur-ws.org/Vol-3759/paper11.pdf
+https://dblp.org/rec/conf/i-semantics/FathallaVA018,SemSur: A Core Ontology for the Semantic Representation of Research Findings.,https://doi.org/10.1016/J.PROCS.2018.09.015,https://doi.org/10.1016/J.PROCS.2018.09.015
+https://dblp.org/rec/conf/i-semantics/FaubelE14,The Organiser - A Semantic Desktop Agent based on NEPOMUK.,,https://ceur-ws.org/Vol-1224/paper1.pdf
+https://dblp.org/rec/conf/i-semantics/FeddoulSL19,Automatic Facet Generation and Selection over Knowledge Graphs.,https://doi.org/10.1007/978-3-030-33220-4_23,https://doi.org/10.1007/978-3-030-33220-4_23
+https://dblp.org/rec/conf/i-semantics/FernandezSU15,The DBpedia wayback machine.,https://doi.org/10.1145/2814864.2814889,https://doi.org/10.1145/2814864.2814889
+https://dblp.org/rec/conf/i-semantics/FernandezUPK16,Evaluating Query and Storage Strategies for RDF Archives.,https://doi.org/10.1145/2993318.2993333,https://doi.org/10.1145/2993318.2993333
+https://dblp.org/rec/conf/i-semantics/FeroozP24,An Ontological Framework for Integrating the Heterogeneous Medieval Manuscript Resources: A Case Study of Progetto Irnerio and Mosaico.,https://doi.org/10.3233/SSW240032,https://doi.org/10.3233/SSW240032
+https://dblp.org/rec/conf/i-semantics/Ferre21,Adding Structure and Removing Duplicates in SPARQL Results with Nested Tables.,https://doi.org/10.3233/SSW210047,https://doi.org/10.3233/SSW210047
+https://dblp.org/rec/conf/i-semantics/FeyisetanSTLS14,Quick-and-clean extraction of linked data entities from microblogs.,https://doi.org/10.1145/2660517.2660527,https://doi.org/10.1145/2660517.2660527
+https://dblp.org/rec/conf/i-semantics/FilipiakWF15,Semantic Annotation to Support Description of the Art Market.,,https://ceur-ws.org/Vol-1481/paper18.pdf
+https://dblp.org/rec/conf/i-semantics/FilipowskaWF14,Efficient Search and Browsing of CSV Datasets.,,https://ceur-ws.org/Vol-1224/paper2.pdf
+https://dblp.org/rec/conf/i-semantics/FiltzKP18,Interlinking Legal Data.,,https://ceur-ws.org/Vol-2198/paper_118.pdf
+https://dblp.org/rec/conf/i-semantics/FiorelliPS12,Semantic turkey goes SKOS managing knowledge organization systems.,https://doi.org/10.1145/2362499.2362509,https://doi.org/10.1145/2362499.2362509
+https://dblp.org/rec/conf/i-semantics/FlatiN14,"Three Birds (in the LLOD Cloud) with One Stone: BabelNet, Babelfy and the Wikipedia Bitaxonomy.",,https://ceur-ws.org/Vol-1224/paper3.pdf
+https://dblp.org/rec/conf/i-semantics/FleurTP15,Complex event extraction from real-time news streams.,https://doi.org/10.1145/2814864.2814870,https://doi.org/10.1145/2814864.2814870
+https://dblp.org/rec/conf/i-semantics/FlourisPABDMRP17,Methinks: Enabling Sophisticated Comment Management in the Social Web.,,https://ceur-ws.org/Vol-2044/paper3/
+https://dblp.org/rec/conf/i-semantics/FogarolliB10,Linking data for public administrations.,https://doi.org/10.1145/1839707.1839752,https://doi.org/10.1145/1839707.1839752
+https://dblp.org/rec/conf/i-semantics/ForbergPH17,Investigating Explorability of DBpedia and its Ontology.,,https://ceur-ws.org/Vol-2044/paper19/
+https://dblp.org/rec/conf/i-semantics/FordDEMA16,Automating Financial Regulatory Compliance Using Ontology+Rules and Sunflower.,https://doi.org/10.1145/2993318.2993329,https://doi.org/10.1145/2993318.2993329
+https://dblp.org/rec/conf/i-semantics/FornaraM16,Modeling and Enforcing Access Control Obligations for SPARQL-DL Queries.,https://doi.org/10.1145/2993318.2993337,https://doi.org/10.1145/2993318.2993337
+https://dblp.org/rec/conf/i-semantics/FossatiKL15,Unsupervised learning of an extensive and usable taxonomy for DBpedia.,https://doi.org/10.1145/2814864.2814881,https://doi.org/10.1145/2814864.2814881
+https://dblp.org/rec/conf/i-semantics/FradeGGLP12,Building semantic interoperability through the federation of semantic asset repositories.,https://doi.org/10.1145/2362499.2362528,https://doi.org/10.1145/2362499.2362528
+https://dblp.org/rec/conf/i-semantics/FrankBSZ18,LSane: Collaborative Validation and Enrichment of Heterogeneous Observation Streams.,https://doi.org/10.1016/J.PROCS.2018.09.022,https://doi.org/10.1016/J.PROCS.2018.09.022
+https://dblp.org/rec/conf/i-semantics/FrankeDDWHT18,Semantic Web: Ontological Search Approach.,,https://ceur-ws.org/Vol-2198/paper_101.pdf
+https://dblp.org/rec/conf/i-semantics/FreireMVI18,Aggregation of cultural heritage datasets through the Web of Data.,https://doi.org/10.1016/J.PROCS.2018.09.012,https://doi.org/10.1016/J.PROCS.2018.09.012
+https://dblp.org/rec/conf/i-semantics/FreyH17,MaSQue: An Approach for Flexible Metadata Storage and Querying in RDF.,,https://ceur-ws.org/Vol-2044/paper8/
+https://dblp.org/rec/conf/i-semantics/FreySGHA20,DBpedia Archivo: A Web-Scale Interface for Ontology Archiving Under Consumer-Oriented Aspects.,https://doi.org/10.1007/978-3-030-59833-4_2,https://doi.org/10.1007/978-3-030-59833-4_2
+https://dblp.org/rec/conf/i-semantics/FriedrichKHH16,Integrating matching services into the Web of Needs.,,https://ceur-ws.org/Vol-1695/paper19.pdf
+https://dblp.org/rec/conf/i-semantics/FrischmuthAM16,OntoWiki 1.0: 10 Years of Development - What's New in OntoWiki.,,https://ceur-ws.org/Vol-1695/paper11.pdf
+https://dblp.org/rec/conf/i-semantics/FrixioneL11,Representing and reasoning on typicality in formal ontologies.,https://doi.org/10.1145/2063518.2063534,https://doi.org/10.1145/2063518.2063534
+https://dblp.org/rec/conf/i-semantics/FrommholdPATPM16,Towards Versioning of Arbitrary RDF Data.,https://doi.org/10.1145/2993318.2993327,https://doi.org/10.1145/2993318.2993327
+https://dblp.org/rec/conf/i-semantics/FutiaVMM18,Training Neural Language Models with SPARQL queries for Semi-Automatic Semantic Mapping.,https://doi.org/10.1016/J.PROCS.2018.09.018,https://doi.org/10.1016/J.PROCS.2018.09.018
+https://dblp.org/rec/conf/i-semantics/Galarreta16,A Knowledge-oriented Approach to Semantic Changes.,,https://ceur-ws.org/Vol-1695/paper45.pdf
+https://dblp.org/rec/conf/i-semantics/GalkinEACVA17,SMJoin: A Multi-way Join Operator for SPARQL Queries.,https://doi.org/10.1145/3132218.3132220,https://doi.org/10.1145/3132218.3132220
+https://dblp.org/rec/conf/i-semantics/GangemiLLN22,Automatically Drafting Ontologies from Competency Questions with FrODO.,https://doi.org/10.3233/SSW220014,https://doi.org/10.3233/SSW220014
+https://dblp.org/rec/conf/i-semantics/GangemiLLN22a,FrODO: Generating Ontologies from Competency Questions in One Click.,,https://ceur-ws.org/Vol-3235/paper13.pdf
+https://dblp.org/rec/conf/i-semantics/GarabedianBFYMB23,"A Framework Generate, Store, and Publish FAIR Data in Experimental Sciences.",,https://ceur-ws.org/Vol-3526/paper-01.pdf
+https://dblp.org/rec/conf/i-semantics/Garcia-Gonzalez22,Why to Tie to a Single Data Mapping Language? Enabling a Transformation from ShExML to RML.,,https://ceur-ws.org/Vol-3235/paper11.pdf
+https://dblp.org/rec/conf/i-semantics/GarciaG10,Triplificating and linking XBRL financial data.,https://doi.org/10.1145/1839707.1839711,https://doi.org/10.1145/1839707.1839711
+https://dblp.org/rec/conf/i-semantics/GarijoVC11,A provenance-aware Linked Data application for trip management and organization.,https://doi.org/10.1145/2063518.2063554,https://doi.org/10.1145/2063518.2063554
+https://dblp.org/rec/conf/i-semantics/GazzeDMT15,An overview of the tourpedia linked dataset with a focus on relations discovery among places.,https://doi.org/10.1145/2814864.2814876,https://doi.org/10.1145/2814864.2814876
+https://dblp.org/rec/conf/i-semantics/GerberFMTA10,Learning semantic web technologies with the web-based SPARQLTrainer.,https://doi.org/10.1145/1839707.1839740,https://doi.org/10.1145/1839707.1839740
+https://dblp.org/rec/conf/i-semantics/GermesinR12,terkait: semantic interactions with web content.,https://doi.org/10.1145/2362499.2362524,https://doi.org/10.1145/2362499.2362524
+https://dblp.org/rec/conf/i-semantics/GeseseWCSS24,NFDI4DSO: Towards a BFO Compliant Ontology for Data Science.,,https://ceur-ws.org/Vol-3759/paper21.pdf
+https://dblp.org/rec/conf/i-semantics/GesselBBTB23,A Toolset for Normative Interpretations in FLINT.,,https://ceur-ws.org/Vol-3526/paper-03.pdf
+https://dblp.org/rec/conf/i-semantics/GesselBH23,An Interaction Pattern Ontology for Data Sharing about Logistics Activities.,,https://ceur-ws.org/Vol-3510/paper_sem4tra_2.pdf
+https://dblp.org/rec/conf/i-semantics/GhazyWTC23,Mobility Profiles: A Taxonomy for the Standardisation of Mobility Data Spaces.,,https://ceur-ws.org/Vol-3510/paper_sem4tra_3.pdf
+https://dblp.org/rec/conf/i-semantics/GiacintoP14,Openplexus: Distributed Knowledge-Sharing in Virtual Teams.,,https://ceur-ws.org/Vol-1224/paper4.pdf
+https://dblp.org/rec/conf/i-semantics/GiazitzoglouTCA17,The WITH Platform: Where Culture Meets Creativity.,,https://ceur-ws.org/Vol-2044/paper16/
+https://dblp.org/rec/conf/i-semantics/GiboinDS11,"Taking ""pragmatic dimensions"" of ontologies into account: frameworks.",https://doi.org/10.1145/2063518.2063550,https://doi.org/10.1145/2063518.2063550
+https://dblp.org/rec/conf/i-semantics/GillT16,Understanding User Communities from Social Network Data.,,https://ceur-ws.org/Vol-1695/paper44.pdf
+https://dblp.org/rec/conf/i-semantics/GimenezMRRR18,UNiCS: The Open Data Platform for Research and Innovation.,,https://ceur-ws.org/Vol-2198/paper_104.pdf
+https://dblp.org/rec/conf/i-semantics/GizyckaNK19,Knowledge-based Development of Games Using Design Patterns Ontology.,,https://ceur-ws.org/Vol-2451/paper-12.pdf
+https://dblp.org/rec/conf/i-semantics/GjorgjevikST14,SemCCM: course and competence management in learning management systems using semantic web technologies.,https://doi.org/10.1145/2660517.2660535,https://doi.org/10.1145/2660517.2660535
+https://dblp.org/rec/conf/i-semantics/GlachsSB12,Interlinking Media Archives with the Web of Data.,,https://ceur-ws.org/Vol-932/paper4.pdf
+https://dblp.org/rec/conf/i-semantics/GleimMBD21,Capturing Provenance Information in the File System.,,https://ceur-ws.org/Vol-2941/paper5.pdf
+https://dblp.org/rec/conf/i-semantics/GoisserFWR22,Plow: A Novel Approach to Interlinking Modular Ontologies Based on Software Package Management.,https://doi.org/10.3233/SSW220015,https://doi.org/10.3233/SSW220015
+https://dblp.org/rec/conf/i-semantics/GolpayeganiEP024,AIUP: an ODRL Profile for Expressing AI Use Policies to Support the EU AI Act.,,https://ceur-ws.org/Vol-3759/paper17.pdf
+https://dblp.org/rec/conf/i-semantics/GolpayeganiP022,AIRO: An Ontology for Representing AI Risks Based on the Proposed EU AI Act and ISO Risk Management Standards.,https://doi.org/10.3233/SSW220008,https://doi.org/10.3233/SSW220008
+https://dblp.org/rec/conf/i-semantics/GonulS12,Semantic content management and integration with JCR/CMIS compliant content repositories.,https://doi.org/10.1145/2362499.2362527,https://doi.org/10.1145/2362499.2362527
+https://dblp.org/rec/conf/i-semantics/GottschalkTKIFD19,Simple-ML: Towards a Framework for Semantic Data Analytics Workflows.,https://doi.org/10.1007/978-3-030-33220-4_26,https://doi.org/10.1007/978-3-030-33220-4_26
+https://dblp.org/rec/conf/i-semantics/GraubeHU16,Open Semantic Revision Control with R43ples: Extending SPARQL to access revisions of Named Graphs.,https://doi.org/10.1145/2993318.2993336,https://doi.org/10.1145/2993318.2993336
+https://dblp.org/rec/conf/i-semantics/GrauGM24,SAKE: A Semantic Authoring and Annotation Tool for Knowledge Extraction.,,https://ceur-ws.org/Vol-3759/paper19.pdf
+https://dblp.org/rec/conf/i-semantics/GrauxSJLSMP18,Profiting from Kitties on Ethereum: Leveraging Blockchain RDF with SANSA.,,https://ceur-ws.org/Vol-2198/paper_124.pdf
+https://dblp.org/rec/conf/i-semantics/GrauxSSN020,MINDS: A Translator to Embed Mathematical Expressions Inside SPARQL Queries.,https://doi.org/10.1007/978-3-030-59833-4_7,https://doi.org/10.1007/978-3-030-59833-4_7
+https://dblp.org/rec/conf/i-semantics/GrimmHC14,Text Insights: Natural Language Analytics for Understanding Social Media Engagement.,,https://ceur-ws.org/Vol-1224/paper5.pdf
+https://dblp.org/rec/conf/i-semantics/GrimnesCS10,Using linked open data to bootstrap corporate knowledge management in the OrganiK project.,https://doi.org/10.1145/1839707.1839730,https://doi.org/10.1145/1839707.1839730
+https://dblp.org/rec/conf/i-semantics/GrunwaldWSB14,The semantic model editor: efficient data modeling and integration based on OWL ontologies.,https://doi.org/10.1145/2660517.2660526,https://doi.org/10.1145/2660517.2660526
+https://dblp.org/rec/conf/i-semantics/GunaratnaTJSW13,A statistical and schema independent approach to identify equivalent properties on linked data.,https://doi.org/10.1145/2506182.2506187,https://doi.org/10.1145/2506182.2506187
+https://dblp.org/rec/conf/i-semantics/GunaratnaTS13,Types of Property Pairs and Alignment on Linked Datasets - A Preliminary Analysis.,,https://ceur-ws.org/Vol-1026/paper8.pdf
+https://dblp.org/rec/conf/i-semantics/Guo09,Boundary-based Module Extraction in Weakly Acyclic EL++ Ontologies: Theory Foundation and Preliminary Evaluation.,,
+https://dblp.org/rec/conf/i-semantics/GusmitaJVRNU19,QUANT - Question Answering Benchmark Curator.,https://doi.org/10.1007/978-3-030-33220-4_25,https://doi.org/10.1007/978-3-030-33220-4_25
+https://dblp.org/rec/conf/i-semantics/HaaseMZ10,An evaluation of approaches to federated query processing over linked data.,https://doi.org/10.1145/1839707.1839713,https://doi.org/10.1145/1839707.1839713
+https://dblp.org/rec/conf/i-semantics/HahmKWWSKPHC14,Toward matching the relation instantiation from DBpedia ontology to Wikipedia text: fusing FrameNet to Korean.,https://doi.org/10.1145/2660517.2660534,https://doi.org/10.1145/2660517.2660534
+https://dblp.org/rec/conf/i-semantics/HakkarainenEPPH09,"Knowledge Practices, Epistemic Technologies, and Pragmatic Web.",,
+https://dblp.org/rec/conf/i-semantics/HalacEIOGD13,Publishing and linking university data considering the dynamism of datasources.,https://doi.org/10.1145/2506182.2506202,https://doi.org/10.1145/2506182.2506202
+https://dblp.org/rec/conf/i-semantics/HalbSMMA10,Towards a commercial adoption of linked open data for online content providers.,https://doi.org/10.1145/1839707.1839727,https://doi.org/10.1145/1839707.1839727
+https://dblp.org/rec/conf/i-semantics/HalilajGVLA17,DemoEffTE: A Demonstrator of Dependency-aware Evaluation of Test Cases over Ontology.,,https://ceur-ws.org/Vol-2044/paper20/
+https://dblp.org/rec/conf/i-semantics/HanglTT13,Introducing a Diversity-Aware Drupal Extension.,,https://ceur-ws.org/Vol-1026/paper5.pdf
+https://dblp.org/rec/conf/i-semantics/HaslhoferKF16,O Bitcoin Where Art Thou? Insight into Large-Scale Transaction Graphs.,,https://ceur-ws.org/Vol-1695/paper20.pdf
+https://dblp.org/rec/conf/i-semantics/HaslhoferMGS10,Augmenting Europeana content with linked data resources.,https://doi.org/10.1145/1839707.1839757,https://doi.org/10.1145/1839707.1839757
+https://dblp.org/rec/conf/i-semantics/HassanBG16,Correlating open rating systems and lived experiences extraction from text.,,https://ceur-ws.org/Vol-1695/paper36.pdf
+https://dblp.org/rec/conf/i-semantics/HassanzadehXFYDZM10,BibBase triplified.,https://doi.org/10.1145/1839707.1839758,https://doi.org/10.1145/1839707.1839758
+https://dblp.org/rec/conf/i-semantics/HavurNP21,DALICC As A Service - A Scaleable Architecture for License Clearance.,,https://ceur-ws.org/Vol-2941/paper12.pdf
+https://dblp.org/rec/conf/i-semantics/HavurSPFMPTPK18,DALICC: A Framework for Publishing and Consuming Data Assets Legally.,,https://ceur-ws.org/Vol-2198/paper_114.pdf
+https://dblp.org/rec/conf/i-semantics/HavurSPFMPTPK19,Automatic License Compatibility Checking.,,https://ceur-ws.org/Vol-2451/paper-13.pdf
+https://dblp.org/rec/conf/i-semantics/HeilW15,Analysis and visualization of Austria's social insurance system.,,https://ceur-ws.org/Vol-1481/paper31.pdf
+https://dblp.org/rec/conf/i-semantics/HeilWKG16,Towards Reputation-Aware Expert Finding with Linked Open Data.,,https://ceur-ws.org/Vol-1695/paper16.pdf
+https://dblp.org/rec/conf/i-semantics/HeimLTE11,SemLens: visual analysis of semantic data with scatter plots and semantic lenses.,https://doi.org/10.1145/2063518.2063543,https://doi.org/10.1145/2063518.2063543
+https://dblp.org/rec/conf/i-semantics/HeimSE11,A model for human-computer interaction in the semantic web.,https://doi.org/10.1145/2063518.2063538,https://doi.org/10.1145/2063518.2063538
+https://dblp.org/rec/conf/i-semantics/HellmundSHM19,Employing Geospatial Semantics and Semantic Web Technologies in Natural Disaster Management.,,https://ceur-ws.org/Vol-2451/paper-14.pdf
+https://dblp.org/rec/conf/i-semantics/HelouP15,Cross-lingual lexical matching with word translation and local similarity optimization.,https://doi.org/10.1145/2814864.2814888,https://doi.org/10.1145/2814864.2814888
+https://dblp.org/rec/conf/i-semantics/HenselmannKSS0H22,Solid Proof of Concept in an Enterprise Loan Request Use Case.,,https://ceur-ws.org/Vol-3235/paper3.pdf
+https://dblp.org/rec/conf/i-semantics/HertlingPP19,MELT - Matching EvaLuation Toolkit.,https://doi.org/10.1007/978-3-030-33220-4_17,https://doi.org/10.1007/978-3-030-33220-4_17
+https://dblp.org/rec/conf/i-semantics/HertRG11,A comparison of RDB-to-RDF mapping languages.,https://doi.org/10.1145/2063518.2063522,https://doi.org/10.1145/2063518.2063522
+https://dblp.org/rec/conf/i-semantics/HertRMG11,UpLink: a Linked Data editor for RDB-to-RDF data.,https://doi.org/10.1145/2063518.2063539,https://doi.org/10.1145/2063518.2063539
+https://dblp.org/rec/conf/i-semantics/HeussHHR14,A comparison of NER tools w.r.t. a domain-specific vocabulary.,https://doi.org/10.1145/2660517.2660520,https://doi.org/10.1145/2660517.2660520
+https://dblp.org/rec/conf/i-semantics/HillnerN11,Parallelizing LIMES for large-scale link discovery.,https://doi.org/10.1145/2063518.2063520,https://doi.org/10.1145/2063518.2063520
+https://dblp.org/rec/conf/i-semantics/HofbauerMWKWZ09,Semantic Web as Driver of Collaborative Demand Capacity Planning.,,
+https://dblp.org/rec/conf/i-semantics/HoferHDF20,The New DBpedia Release Cycle: Increasing Agility and Efficiency in Knowledge Extraction Workflows.,https://doi.org/10.1007/978-3-030-59833-4_1,https://doi.org/10.1007/978-3-030-59833-4_1
+https://dblp.org/rec/conf/i-semantics/HoffnerL14,Towards question answering on statistical linked data.,https://doi.org/10.1145/2660517.2660521,https://doi.org/10.1145/2660517.2660521
+https://dblp.org/rec/conf/i-semantics/HornungB09,An Interaction Design Perspective on the Pragmatic Web: Preliminary Thoughts.,,
+https://dblp.org/rec/conf/i-semantics/HoxhaBV11,open.data.al: increasing the utilization of government data in Albania.,https://doi.org/10.1145/2063518.2063558,https://doi.org/10.1145/2063518.2063558
+https://dblp.org/rec/conf/i-semantics/Huang0A15,Streaming transformation of XML to RDF using XPath-based mappings.,https://doi.org/10.1145/2814864.2814880,https://doi.org/10.1145/2814864.2814880
+https://dblp.org/rec/conf/i-semantics/HummelMH24,Assessing the FAIRness of Software Repositories Using RDF and SHACL.,https://doi.org/10.3233/SSW240014,https://doi.org/10.3233/SSW240014
+https://dblp.org/rec/conf/i-semantics/HurlimannDCFHF16,A Twitter Sentiment Gold Standard for the Brexit Referendum.,https://doi.org/10.1145/2993318.2993350,https://doi.org/10.1145/2993318.2993350
+https://dblp.org/rec/conf/i-semantics/HyvonenLRH24,A Model and Case Study for Searching and Reading Cross-Border Multilingual Legislation on the Semantic Web.,https://doi.org/10.3233/SSW240021,https://doi.org/10.3233/SSW240021
+https://dblp.org/rec/conf/i-semantics/HyvonenRK24,Historical Opera and Music Theatre Performances on the Semantic Web: OperaSampo 1830-1960.,https://doi.org/10.3233/SSW240031,https://doi.org/10.3233/SSW240031
+https://dblp.org/rec/conf/i-semantics/HyvonenT24,"8-star Linked Open Data Model: Extending the 5-star Model for Better Reuse, Quality, and Trust of Data.",,https://ceur-ws.org/Vol-3759/paper4.pdf
+https://dblp.org/rec/conf/i-semantics/IanaJNBHP19,Building a Conference Recommender System Based on SciGraph and WikiCFP.,https://doi.org/10.1007/978-3-030-33220-4_9,https://doi.org/10.1007/978-3-030-33220-4_9
+https://dblp.org/rec/conf/i-semantics/IbrahimFY0J19,From Monolingual to Multilingual Ontologies: The Role of Cross-Lingual Ontology Enrichment.,https://doi.org/10.1007/978-3-030-33220-4_16,https://doi.org/10.1007/978-3-030-33220-4_16
+https://dblp.org/rec/conf/i-semantics/Iglesias-Molina23,Towards Assessing FAIR Research Software Best Practices in an Organization Using RDF-star.,,https://ceur-ws.org/Vol-3526/paper-09.pdf
+https://dblp.org/rec/conf/i-semantics/IvanschitzLMRST18,A Semantic Catalogue for the Data Market Austria.,,https://ceur-ws.org/Vol-2198/paper_126.pdf
+https://dblp.org/rec/conf/i-semantics/JaillardSLV13,A Comprehensive Microbial Knowledge Base to Support the Development of In-vitro Diagnostic Solutions in Infectious Diseases.,,https://ceur-ws.org/Vol-1026/paper12.pdf
+https://dblp.org/rec/conf/i-semantics/JaiswalL17,Towards Federated Queries for Web of Things Devices.,,https://ceur-ws.org/Vol-2063/sisiot-paper1.pdf
+https://dblp.org/rec/conf/i-semantics/JanevMSMV12,Linked Open Data Infrastructure for Public Sector Information: Example from Serbia.,,https://ceur-ws.org/Vol-932/paper6.pdf
+https://dblp.org/rec/conf/i-semantics/JanevV09,Maturity and Applicability Assessment of Semantic Web Technologies.,,
+https://dblp.org/rec/conf/i-semantics/JanssenA24,EA-to-RDF: Pain-Free integration of RDF and UML.,,https://ceur-ws.org/Vol-3759/paper3.pdf
+https://dblp.org/rec/conf/i-semantics/JentzschZHCSA09,Linking Open Drug Data.,,
+https://dblp.org/rec/conf/i-semantics/JovanovikPNT14,Linked music data from global music charts.,https://doi.org/10.1145/2660517.2660536,https://doi.org/10.1145/2660517.2660536
+https://dblp.org/rec/conf/i-semantics/KaedP17,A Model Driven Approach Accelerating Ontology-based IoT Applications Development.,,https://ceur-ws.org/Vol-2063/sisiot-paper4.pdf
+https://dblp.org/rec/conf/i-semantics/KaffeeS18,The Human Face of the Web of Data: A Cross-sectional Study of Labels.,https://doi.org/10.1016/J.PROCS.2018.09.007,https://doi.org/10.1016/J.PROCS.2018.09.007
+https://dblp.org/rec/conf/i-semantics/KainznerKFCFG21,Towards Reusable Ontology Alignment for Manufacturing Maintenance.,,https://ceur-ws.org/Vol-2941/paper9.pdf
+https://dblp.org/rec/conf/i-semantics/KampgenH11,Transforming statistical linked data for use in OLAP systems.,https://doi.org/10.1145/2063518.2063523,https://doi.org/10.1145/2063518.2063523
+https://dblp.org/rec/conf/i-semantics/KapouraniFZPMK15,Linked Data Analytics for Business Intelligence SMEs: A Pilot Case in the Pharmaceutical Sector.,,https://ceur-ws.org/Vol-1481/paper17.pdf
+https://dblp.org/rec/conf/i-semantics/KaralisBN23,Native Execution of GraphQL Queries over RDF Graphs Using Multi-Way Joins.,https://doi.org/10.3233/SSW230007,https://doi.org/10.3233/SSW230007
+https://dblp.org/rec/conf/i-semantics/KarleFTF15,Schema.org usage for hotels: An analysis based on the Web Data Commons data set.,,https://ceur-ws.org/Vol-1481/paper24.pdf
+https://dblp.org/rec/conf/i-semantics/Kastner00YSSKH24,Data-Sovereign Enterprise Collaboration using the Solid Protocol.,,https://ceur-ws.org/Vol-3759/paper10.pdf
+https://dblp.org/rec/conf/i-semantics/Kaufmann09,Intention Broadcasting - A Model for Computer-Mediated Intention Sharing and Coordination.,,
+https://dblp.org/rec/conf/i-semantics/KaurBJMNU19,Offline Question Answering over Linked Data using Limited Resources.,,https://ceur-ws.org/Vol-2451/paper-15.pdf
+https://dblp.org/rec/conf/i-semantics/KawamuraO12,A field application of LOD: LOD extraction from web and LOD search by sensor.,https://doi.org/10.1145/2362499.2362530,https://doi.org/10.1145/2362499.2362530
+https://dblp.org/rec/conf/i-semantics/Keil24,Continuous Knowledge Graph Quality Assessment through Comparison using ABECTO.,,https://ceur-ws.org/Vol-3759/paper5.pdf
+https://dblp.org/rec/conf/i-semantics/KeppmannMH17,"Adaptable Interfaces, Interactions, and Processing for Linked Data Platform Components.",https://doi.org/10.1145/3132218.3132243,https://doi.org/10.1145/3132218.3132243
+https://dblp.org/rec/conf/i-semantics/KeskisarkkaBH21,Optimizing RDF Stream Processing for Uncertainty Management.,https://doi.org/10.3233/SSW210039,https://doi.org/10.3233/SSW210039
+https://dblp.org/rec/conf/i-semantics/KeskisarkkaBLH19,RSP-QL $$^{\star }\!$$ : Enabling Statement-Level Annotations in RDF Streams.,https://doi.org/10.1007/978-3-030-33220-4_11,https://doi.org/10.1007/978-3-030-33220-4_11
+https://dblp.org/rec/conf/i-semantics/KhaliliG17,Linked Data Reactor: Towards Data-aware User Interfaces.,https://doi.org/10.1145/3132218.3132231,https://doi.org/10.1145/3132218.3132231
+https://dblp.org/rec/conf/i-semantics/KhaliliG18,SlideWiki - A Platform for Authoring FAIR Educational Content.,,https://ceur-ws.org/Vol-2198/paper_108.pdf
+https://dblp.org/rec/conf/i-semantics/KhanANS21,When is the Peak Performance Reached? An Analysis of RDF Triple Stores.,https://doi.org/10.3233/SSW210042,https://doi.org/10.3233/SSW210042
+https://dblp.org/rec/conf/i-semantics/KhiatMM17,Semantic Annotation for Enhancing Collaborative Ideation.,https://doi.org/10.1145/3132218.3132235,https://doi.org/10.1145/3132218.3132235
+https://dblp.org/rec/conf/i-semantics/KiefferFS23,Evaluating Reification with Multi-Valued Properties in a Knowledge Graph of Licensed Educational Resources.,https://doi.org/10.3233/SSW230008,https://doi.org/10.3233/SSW230008
+https://dblp.org/rec/conf/i-semantics/KinsellaPB10,Using hyperlinks to enrich message board content with linked data.,https://doi.org/10.1145/1839707.1839709,https://doi.org/10.1145/1839707.1839709
+https://dblp.org/rec/conf/i-semantics/KirchhoffG12,Querying SAP ERP with SPARQL.,https://doi.org/10.1145/2362499.2362525,https://doi.org/10.1145/2362499.2362525
+https://dblp.org/rec/conf/i-semantics/KleedorferHFH16,Web of Needs: A Process Overview.,,https://ceur-ws.org/Vol-1695/paper22.pdf
+https://dblp.org/rec/conf/i-semantics/KleedorferPBH16,Verifiability and Traceability in a Linked Data Based Messaging System.,https://doi.org/10.1145/2993318.2993342,https://doi.org/10.1145/2993318.2993342
+https://dblp.org/rec/conf/i-semantics/KleedorferSSH18,Hailing a Taxi on the Web of Needs.,,https://ceur-ws.org/Vol-2198/paper_103.pdf
+https://dblp.org/rec/conf/i-semantics/KleinerA09,Towards a Collaborative Semantic Wiki-based Approach to IT Service Management.,,
+https://dblp.org/rec/conf/i-semantics/KlironomosGK24,Empowering Industry Professionals with Machine Learning through Knowledge Graphs.,,https://ceur-ws.org/Vol-3759/workshop5.pdf
+https://dblp.org/rec/conf/i-semantics/KluschMSH15,iCM-Hydraulic: semantics-empowered condition monitoring of hydraulic machines.,https://doi.org/10.1145/2814864.2814865,https://doi.org/10.1145/2814864.2814865
+https://dblp.org/rec/conf/i-semantics/Knap14,Processing RDF Data in UnifiedViews.,,https://ceur-ws.org/Vol-1224/paper6.pdf
+https://dblp.org/rec/conf/i-semantics/KnoblachAKBC22,Combining Knowledge Graphs and Language Models to Answer Questions over Tables.,,https://ceur-ws.org/Vol-3235/paper15.pdf
+https://dblp.org/rec/conf/i-semantics/Koeva15,Paraphrasing of Synonyms for a Fine-grained Data Representation.,,https://ceur-ws.org/Vol-1481/paper25.pdf
+https://dblp.org/rec/conf/i-semantics/KohlhaseK010,STEX+: a system for flexible formalization of linked data.,https://doi.org/10.1145/1839707.1839712,https://doi.org/10.1145/1839707.1839712
+https://dblp.org/rec/conf/i-semantics/KohoLH20,Integrating Historical Person Registers as Linked Open Data in the WarSampo Knowledge Graph.,https://doi.org/10.1007/978-3-030-59833-4_8,https://doi.org/10.1007/978-3-030-59833-4_8
+https://dblp.org/rec/conf/i-semantics/KolawoleCB17,Siamese Network with Soft Attention for Semantic Text Understanding.,https://doi.org/10.1145/3132218.3132236,https://doi.org/10.1145/3132218.3132236
+https://dblp.org/rec/conf/i-semantics/KoutrakiMS18,Temporal Role Annotation for Named Entities.,https://doi.org/10.1016/J.PROCS.2018.09.021,https://doi.org/10.1016/J.PROCS.2018.09.021
+https://dblp.org/rec/conf/i-semantics/KoutsomitropoulosS10,Issues in expressing metadata application profiles with description logics and OWL 2.,https://doi.org/10.1145/1839707.1839718,https://doi.org/10.1145/1839707.1839718
+https://dblp.org/rec/conf/i-semantics/KovalenkoSB13,Towards evaluation and comparison of tools for ontology population from spreadsheet data.,https://doi.org/10.1145/2506182.2506190,https://doi.org/10.1145/2506182.2506190
+https://dblp.org/rec/conf/i-semantics/Kovarova-Simecek19,ONB Labs - An Open Digital Hub of Cultural Heritage.,,https://ceur-ws.org/Vol-2451/paper-16.pdf
+https://dblp.org/rec/conf/i-semantics/KovriguinaTRM23,SPARQLGEN: One-Shot Prompt-based Approach for SPARQL Query Generation.,,https://ceur-ws.org/Vol-3526/paper-08.pdf
+https://dblp.org/rec/conf/i-semantics/KowaldDTWT13,The Social Semantic Server - A Framework to Provide Services on Social Semantic Network Data.,,https://ceur-ws.org/Vol-1026/paper11.pdf
+https://dblp.org/rec/conf/i-semantics/Kracker18,European Patent Information and the CPC Taxonomy as Linked Open Data.,,https://ceur-ws.org/Vol-2198/paper_96.pdf
+https://dblp.org/rec/conf/i-semantics/KrauseWP22,On a Generalized Framework for Time-Aware Knowledge Graphs.,https://doi.org/10.3233/SSW220010,https://doi.org/10.3233/SSW220010
+https://dblp.org/rec/conf/i-semantics/KremenMBS12,Ontology-driven mindmapping.,https://doi.org/10.1145/2362499.2362517,https://doi.org/10.1145/2362499.2362517
+https://dblp.org/rec/conf/i-semantics/KricklK22,Misinformation Detection: Using Linguistic Cues.,,https://ceur-ws.org/Vol-3235/paper9.pdf
+https://dblp.org/rec/conf/i-semantics/KrummenacherBSF09,An Open Distributed Middleware for the Semantic Web.,,
+https://dblp.org/rec/conf/i-semantics/KuceraSM17,Competencies as a Cost Driver of Querying Linked Data.,,https://ceur-ws.org/Vol-2044/paper7/
+https://dblp.org/rec/conf/i-semantics/KumarNHS24,PCFWebUI: Data-driven WebUI for holistic decarbonization based on PCF-Tracking.,,https://ceur-ws.org/Vol-3759/paper12.pdf
+https://dblp.org/rec/conf/i-semantics/KuricFD19,Knowledge Graph Exploration: A Usability Evaluation of Query Builders for Laypeople.,https://doi.org/10.1007/978-3-030-33220-4_24,https://doi.org/10.1007/978-3-030-33220-4_24
+https://dblp.org/rec/conf/i-semantics/KurniawanEKFE19,Semantic Integration and Monitoring of File System Activity.,,https://ceur-ws.org/Vol-2451/paper-17.pdf
+https://dblp.org/rec/conf/i-semantics/LagewegKK24,GECKO: A Question Answering System for Official Statistics.,,https://ceur-ws.org/Vol-3759/paper22.pdf
+https://dblp.org/rec/conf/i-semantics/LatifSHSW09,The Linked Data Value Chain: A Lightweight Model for Business Engineers.,,
+https://dblp.org/rec/conf/i-semantics/LeboW10,Converting governmental datasets into linked data.,https://doi.org/10.1145/1839707.1839755,https://doi.org/10.1145/1839707.1839755
+https://dblp.org/rec/conf/i-semantics/Lefrancois17,Planned ETSI SAREF Extensions based on the W3C&OGC SOSA/SSN-compatible SEAS Ontology Pattern.,,https://ceur-ws.org/Vol-2063/sisiot-paper2.pdf
+https://dblp.org/rec/conf/i-semantics/LehmannSZ17,Towards Integration and Coverage Assessment of Ontologies for Knowledge Reuse in the Aviation Sector.,,https://ceur-ws.org/Vol-2063/lidari-paper3.pdf
+https://dblp.org/rec/conf/i-semantics/LeitnerRS19,Fine-Grained Named Entity Recognition in Legal Documents.,https://doi.org/10.1007/978-3-030-33220-4_20,https://doi.org/10.1007/978-3-030-33220-4_20
+https://dblp.org/rec/conf/i-semantics/LemdaniPBB11,A semantic similarity measure for recommender systems.,https://doi.org/10.1145/2063518.2063545,https://doi.org/10.1145/2063518.2063545
+https://dblp.org/rec/conf/i-semantics/LendvaiRD16,Factuality Drift Assessment by Lexical Markers in Resolved Rumors.,,https://ceur-ws.org/Vol-1695/paper43.pdf
+https://dblp.org/rec/conf/i-semantics/LeodolterR15,Learning mobility profiles: an application to a personalised weather warning system.,,https://ceur-ws.org/Vol-1481/paper32.pdf
+https://dblp.org/rec/conf/i-semantics/LeongK17,Internet of Things (IoT) for Dynamic Change Management in Mass Customization.,,https://ceur-ws.org/Vol-2063/lidari-paper1.pdf
+https://dblp.org/rec/conf/i-semantics/LeonSVVPC10,Geographical linked data: a Spanish use case.,https://doi.org/10.1145/1839707.1839753,https://doi.org/10.1145/1839707.1839753
+https://dblp.org/rec/conf/i-semantics/LieberACMGBD21,BESOCIAL: A Sustainable Knowledge Graph-Based Workflow for Social Media Archiving.,https://doi.org/10.3233/SSW210045,https://doi.org/10.3233/SSW210045
+https://dblp.org/rec/conf/i-semantics/LieberMVD20,EcoDaLo: Federating Advertisement Targeting with Linked Data.,https://doi.org/10.1007/978-3-030-59833-4_6,https://doi.org/10.1007/978-3-030-59833-4_6
+https://dblp.org/rec/conf/i-semantics/LiebigOVW23,Scalable No-Code Knowledge Graph Exploration and Querying with SemSpect.,,https://ceur-ws.org/Vol-3526/paper-07.pdf
+https://dblp.org/rec/conf/i-semantics/LiepinsCS12,Visualizing and Editing Ontology Fragments with OWLGrEd.,,https://ceur-ws.org/Vol-932/paper5.pdf
+https://dblp.org/rec/conf/i-semantics/LierWSLPW12,Facilitating research cooperation through linking and sharing of heterogenous research artefacts: cross platform linking of semantically enriched research artefacts.,https://doi.org/10.1145/2362499.2362521,https://doi.org/10.1145/2362499.2362521
+https://dblp.org/rec/conf/i-semantics/LivanosBKA16,Knowledge Networks and Statistical Analysis of Cinematography Linked Data.,,https://ceur-ws.org/Vol-1695/paper33.pdf
+https://dblp.org/rec/conf/i-semantics/LoboDAF23,Knowledge-Grounded Target Group Language Recognition in Hate Speech.,https://doi.org/10.3233/SSW230002,https://doi.org/10.3233/SSW230002
+https://dblp.org/rec/conf/i-semantics/LofflerK16,Does Term Expansion Matter for the Retrieval of Biodiversity Data?,,https://ceur-ws.org/Vol-1695/paper2.pdf
+https://dblp.org/rec/conf/i-semantics/LohmannDA11,MUTO: the modular unified tagging ontology.,https://doi.org/10.1145/2063518.2063531,https://doi.org/10.1145/2063518.2063531
+https://dblp.org/rec/conf/i-semantics/LohvynenkoN19,Usage of Semantic Web in Austrian Regional Tourism Organizations.,https://doi.org/10.1007/978-3-030-33220-4_1,https://doi.org/10.1007/978-3-030-33220-4_1
+https://dblp.org/rec/conf/i-semantics/LopesO11,Towards knowledge federation in biomedical applications.,https://doi.org/10.1145/2063518.2063530,https://doi.org/10.1145/2063518.2063530
+https://dblp.org/rec/conf/i-semantics/LougeCSAMBTO22,CALLISTO: A Semantics-Based Platform for Sharing FAIR Scientific Data.,,https://ceur-ws.org/Vol-3235/paper27.pdf
+https://dblp.org/rec/conf/i-semantics/LukovnikovSL14,LD viewer - linked data presentation framework.,https://doi.org/10.1145/2660517.2660539,https://doi.org/10.1145/2660517.2660539
+https://dblp.org/rec/conf/i-semantics/LullyLSR18,Exploring the synergy between knowledge graph and computer vision for personalisation systems.,https://doi.org/10.1016/J.PROCS.2018.09.017,https://doi.org/10.1016/J.PROCS.2018.09.017
+https://dblp.org/rec/conf/i-semantics/LullyLSR18a,Enhancing explanations in recommender systems with knowledge graphs.,https://doi.org/10.1016/J.PROCS.2018.09.020,https://doi.org/10.1016/J.PROCS.2018.09.020
+https://dblp.org/rec/conf/i-semantics/MaderH13,Perception and relevance of quality issues in web vocabularies.,https://doi.org/10.1145/2506182.2506184,https://doi.org/10.1145/2506182.2506184
+https://dblp.org/rec/conf/i-semantics/MagistraliCS10,Tonal MIR: a music retrieval engine based on semantic web technologies.,https://doi.org/10.1145/1839707.1839734,https://doi.org/10.1145/1839707.1839734
+https://dblp.org/rec/conf/i-semantics/Mahmoodi21,A Fully Decentralized Triplestore Managed via the Ethereum Blockchain.,https://doi.org/10.3233/SSW210044,https://doi.org/10.3233/SSW210044
+https://dblp.org/rec/conf/i-semantics/MaininiL16,Access Control in Linked Data Using WebID.,,https://ceur-ws.org/Vol-1695/paper7.pdf
+https://dblp.org/rec/conf/i-semantics/Maio09,Toward Pragmatic Dimensions of Knowledge Reuse and Learning on the Web.,,
+https://dblp.org/rec/conf/i-semantics/MambriniPLM21,Interlinking Valency Frames and WordNet Synsets in the LiLa Knowledge Base of Linguistic Resources for Latin.,https://doi.org/10.3233/SSW210032,https://doi.org/10.3233/SSW210032
+https://dblp.org/rec/conf/i-semantics/MarfiaNCP15,On the use of OWL Reasoning for Evaluating Access Control Policies.,,https://ceur-ws.org/Vol-1481/paper23.pdf
+https://dblp.org/rec/conf/i-semantics/MarieGGP14,Exploratory search on topics through different perspectives with DBpedia.,https://doi.org/10.1145/2660517.2660518,https://doi.org/10.1145/2660517.2660518
+https://dblp.org/rec/conf/i-semantics/MarieGRR13,Discovery hub: on-the-fly linked data exploratory search.,https://doi.org/10.1145/2506182.2506185,https://doi.org/10.1145/2506182.2506185
+https://dblp.org/rec/conf/i-semantics/MarienfeldHHKF11,Making sense of ratings: a common quantitative feedback ontology.,https://doi.org/10.1145/2063518.2063526,https://doi.org/10.1145/2063518.2063526
+https://dblp.org/rec/conf/i-semantics/MarkovicE16,Semantic Stream Processing for IoT Devices in the Food Safety Domain.,,https://ceur-ws.org/Vol-1695/paper6.pdf
+https://dblp.org/rec/conf/i-semantics/Martin23,BiPaSs: Further Investigation of Fast Pathfinding in Wikidata.,https://doi.org/10.3233/SSW230009,https://doi.org/10.3233/SSW230009
+https://dblp.org/rec/conf/i-semantics/MartinB16,"Top-level Ideas about Importing, Translating and Exporting Knowledge via an Ontology of Representation Languages.",https://doi.org/10.1145/2993318.2993344,https://doi.org/10.1145/2993318.2993344
+https://dblp.org/rec/conf/i-semantics/MartinCF19,Ontology Design Rules Based on Comparability via Particular Relations.,https://doi.org/10.1007/978-3-030-33220-4_15,https://doi.org/10.1007/978-3-030-33220-4_15
+https://dblp.org/rec/conf/i-semantics/MartinMEC17,Decentralized Robot-Cloud Architecture for an Autonomous Transportation System in a Smart Factory.,,https://ceur-ws.org/Vol-2063/lidari-paper2.pdf
+https://dblp.org/rec/conf/i-semantics/MartoranaKSO24,Zero-Shot Topic Classification of Column Headers: Leveraging LLMs for Metadata Enrichment.,https://doi.org/10.3233/SSW240006,https://doi.org/10.3233/SSW240006
+https://dblp.org/rec/conf/i-semantics/MartyniukKFDP23,Semantifying the PlanQK Platform and Ecosystem for Quantum Applications.,https://doi.org/10.3233/SSW230017,https://doi.org/10.3233/SSW230017
+https://dblp.org/rec/conf/i-semantics/MarxPR19,CACAO: Conditional Spread Activation for Keyword Factual Query Interpretation.,https://doi.org/10.1007/978-3-030-33220-4_19,https://doi.org/10.1007/978-3-030-33220-4_19
+https://dblp.org/rec/conf/i-semantics/MarxUNHLA14,Towards an open question answering architecture.,https://doi.org/10.1145/2660517.2660519,https://doi.org/10.1145/2660517.2660519
+https://dblp.org/rec/conf/i-semantics/MarxZMR16,DBtrends: Exploring Query Logs for Ranking RDF Data.,https://doi.org/10.1145/2993318.2993322,https://doi.org/10.1145/2993318.2993322
+https://dblp.org/rec/conf/i-semantics/MaushagenSSVTD24,Populating CSV Files from Unstructured Text with LLMs for KG Generation with RML.,,https://ceur-ws.org/Vol-3759/paper6.pdf
+https://dblp.org/rec/conf/i-semantics/McAuleyFL09,Ethnomethodology as an Influence on Community-Centred Design.,,
+https://dblp.org/rec/conf/i-semantics/McCraeC15,Linghub: a Linked Data based portal supporting the discovery of language resources.,,https://ceur-ws.org/Vol-1481/paper27.pdf
+https://dblp.org/rec/conf/i-semantics/McGlinnDMO17,Integrating Ireland's Geospatial Information to Provide Authoritative Building Information Models.,https://doi.org/10.1145/3132218.3132223,https://doi.org/10.1145/3132218.3132223
+https://dblp.org/rec/conf/i-semantics/MeditskosDVWK16,Question Answering over Pattern-Based User Models.,https://doi.org/10.1145/2993318.2993331,https://doi.org/10.1145/2993318.2993331
+https://dblp.org/rec/conf/i-semantics/MeditskosVK19,V4Ann: Representation and Interlinking of Atom-Based Annotations of Digital Content.,https://doi.org/10.1007/978-3-030-33220-4_10,https://doi.org/10.1007/978-3-030-33220-4_10
+https://dblp.org/rec/conf/i-semantics/MedkovaH22,Distinguishing the Types of Coordinated Verbs with a Shared Argument by Means of New ZeugBERT Language Model and ZeugmaDataset.,https://doi.org/10.3233/SSW220022,https://doi.org/10.3233/SSW220022
+https://dblp.org/rec/conf/i-semantics/MehdiKFJDS15,A linked data platform for finite element biosimulations.,https://doi.org/10.1145/2814864.2814884,https://doi.org/10.1145/2814864.2814884
+https://dblp.org/rec/conf/i-semantics/MeinhardtKS15,TailR: a platform for preserving history on the web of data.,https://doi.org/10.1145/2814864.2814875,https://doi.org/10.1145/2814864.2814875
+https://dblp.org/rec/conf/i-semantics/MeissnerJ16,Using DevOps Principles to Continuously Monitor RDF Data Quality.,https://doi.org/10.1145/2993318.2993351,https://doi.org/10.1145/2993318.2993351
+https://dblp.org/rec/conf/i-semantics/MendesJGB11,DBpedia spotlight: shedding light on the web of documents.,https://doi.org/10.1145/2063518.2063519,https://doi.org/10.1145/2063518.2063519
+https://dblp.org/rec/conf/i-semantics/MendesPK10,Twarql: tapping into the wisdom of the crowd.,https://doi.org/10.1145/1839707.1839762,https://doi.org/10.1145/1839707.1839762
+https://dblp.org/rec/conf/i-semantics/MendibeGK24,Scalable processing of Bosch Welding Data with Graph Massivizer.,,https://ceur-ws.org/Vol-3759/workshop6.pdf
+https://dblp.org/rec/conf/i-semantics/Menemencioglu24,A Foundational Ontology of Deepfake Attacks and Knowledge Graph Application.,https://doi.org/10.3233/SSW240018,https://doi.org/10.3233/SSW240018
+https://dblp.org/rec/conf/i-semantics/MerinoPKOWNF10,CAM in the semantic web world.,https://doi.org/10.1145/1839707.1839737,https://doi.org/10.1145/1839707.1839737
+https://dblp.org/rec/conf/i-semantics/Merkle24,AutoGenHR: Automated Generation of Health Reports for Patients at Home.,,https://ceur-ws.org/Vol-3759/paper20.pdf
+https://dblp.org/rec/conf/i-semantics/MerkleZ18,Using a Semantic Simulation Framework for Teaching Machine Learning Agents.,https://doi.org/10.1016/J.PROCS.2018.09.008,https://doi.org/10.1016/J.PROCS.2018.09.008
+https://dblp.org/rec/conf/i-semantics/Merono-PenuelaK17,A Study of Intensional Concept Drift in Trending DBpedia Concepts.,,https://ceur-ws.org/Vol-2063/dal-paper3.pdf
+https://dblp.org/rec/conf/i-semantics/MeyerFJBBG023,Developing a Scalable Benchmark for Assessing Large Language Models in Knowledge Graph Engineering.,,https://ceur-ws.org/Vol-3526/paper-04.pdf
+https://dblp.org/rec/conf/i-semantics/MichelbergerMBM14,iGraph: Intelligent Enterprise Information Logistics.,,https://ceur-ws.org/Vol-1224/paper7.pdf
+https://dblp.org/rec/conf/i-semantics/MicsikF18,Enabling Research of Cultural Heritage and Recent History using COURAGE Linked Data Registry.,,https://ceur-ws.org/Vol-2198/paper_105.pdf
+https://dblp.org/rec/conf/i-semantics/MicsikTG14,LODmilla: a Linked Data Browser for All.,,https://ceur-ws.org/Vol-1224/paper8.pdf
+https://dblp.org/rec/conf/i-semantics/MijovicTJSV11,Ontology enabled decision support system for emergency management at airports.,https://doi.org/10.1145/2063518.2063540,https://doi.org/10.1145/2063518.2063540
+https://dblp.org/rec/conf/i-semantics/MimouniM24,Towards Efficient Exploitation of Large Knowledge Bases by Context Graphs.,https://doi.org/10.3233/SSW240023,https://doi.org/10.3233/SSW240023
+https://dblp.org/rec/conf/i-semantics/MirelesRSVBM22,"Proposal for PORQUE, a Polylingual Hybrid Question Answering System.",,https://ceur-ws.org/Vol-3235/paper12.pdf
+https://dblp.org/rec/conf/i-semantics/ModoniSCOV17,A Semantic Approach to Recognize Behaviours in Teenagers.,,https://ceur-ws.org/Vol-2044/paper9/
+https://dblp.org/rec/conf/i-semantics/MoellerH16,CORVIDAE: Coreference Resolution Visual Development & Analysis Environment.,,https://ceur-ws.org/Vol-1695/paper27.pdf
+https://dblp.org/rec/conf/i-semantics/MoghaddamDLJ21,Literal2Feature: An Automatic Scalable RDF Graph Feature Extractor.,https://doi.org/10.3233/SSW210036,https://doi.org/10.3233/SSW210036
+https://dblp.org/rec/conf/i-semantics/MollerU24,Entity Linking with Out-of-Knowledge-Graph Entity Detection and Clustering Using Only Knowledge Graphs.,https://doi.org/10.3233/SSW240009,https://doi.org/10.3233/SSW240009
+https://dblp.org/rec/conf/i-semantics/MomeniKRR15,Leveraging Social Affect for Identifying Individual Mood.,,https://ceur-ws.org/Vol-1481/paper33.pdf
+https://dblp.org/rec/conf/i-semantics/MonninLGL10,Speech acts meet tagging: NiceTag ontology.,https://doi.org/10.1145/1839707.1839746,https://doi.org/10.1145/1839707.1839746
+https://dblp.org/rec/conf/i-semantics/Moor10,Conversations in context: a Twitter case for social media systems design.,https://doi.org/10.1145/1839707.1839744,https://doi.org/10.1145/1839707.1839744
+https://dblp.org/rec/conf/i-semantics/MoosmannT024,Enhanced and Scalable RDF Validation Techniques for Dataspaces.,,https://ceur-ws.org/Vol-3759/workshop3.pdf
+https://dblp.org/rec/conf/i-semantics/MoraC13,Engineering optimisations in query rewriting for OBDA.,https://doi.org/10.1145/2506182.2506188,https://doi.org/10.1145/2506182.2506188
+https://dblp.org/rec/conf/i-semantics/MoreiraDPSWSPGP17,Towards IoT Platforms' Integration Semantic Translations between W3C SSN and ETSI SAREF.,,https://ceur-ws.org/Vol-2063/sisiot-paper3.pdf
+https://dblp.org/rec/conf/i-semantics/MorzingerSES18,Improving Simulations-based Industrial Optimization with Semantic Web Technologies.,,https://ceur-ws.org/Vol-2198/paper_113.pdf
+https://dblp.org/rec/conf/i-semantics/MulangSO17,Matching Natural Language Relations to Knowledge Graph Properties for Question Answering.,https://doi.org/10.1145/3132218.3132229,https://doi.org/10.1145/3132218.3132229
+https://dblp.org/rec/conf/i-semantics/Muller-Riedlhuber09,The European Dictionary of Skills and Competencies (DISCO): an Example of Usage Scenarios for Ontologies.,,
+https://dblp.org/rec/conf/i-semantics/MullerH16,Beyond Metadata: Enriching life science publications in Livivo with semantic entities from the linked data cloud.,,https://ceur-ws.org/Vol-1695/paper1.pdf
+https://dblp.org/rec/conf/i-semantics/MunnellyL18,Constructing a knowledge base for entity linking on Irish cultural heritage collections.,https://doi.org/10.1016/J.PROCS.2018.09.019,https://doi.org/10.1016/J.PROCS.2018.09.019
+https://dblp.org/rec/conf/i-semantics/MutluHSTG13,Automated Visualization Support for Linked Research Data.,,https://ceur-ws.org/Vol-1026/paper9.pdf
+https://dblp.org/rec/conf/i-semantics/MynarzDTS16,Generating examples of paths summarizing RDF datasets.,,https://ceur-ws.org/Vol-1695/paper3.pdf
+https://dblp.org/rec/conf/i-semantics/MynarzS19,Change data capture of large-scale RDF data.,,https://ceur-ws.org/Vol-2451/paper-18.pdf
+https://dblp.org/rec/conf/i-semantics/MynarzSKKB16,Modeling fiscal data with the Data Cube Vocabulary.,,https://ceur-ws.org/Vol-1695/paper25.pdf
+https://dblp.org/rec/conf/i-semantics/MynarzZ16,DB-quiz: a DBpedia-backed knowledge game.,https://doi.org/10.1145/2993318.2993339,https://doi.org/10.1145/2993318.2993339
+https://dblp.org/rec/conf/i-semantics/NagyPM11,Exploring structural differences in thesauri for SKOS-based applications.,https://doi.org/10.1145/2063518.2063546,https://doi.org/10.1145/2063518.2063546
+https://dblp.org/rec/conf/i-semantics/NareikeS16,Odruba - Ontology-driven Rule-based Visualisation.,,https://ceur-ws.org/Vol-1695/paper24.pdf
+https://dblp.org/rec/conf/i-semantics/Nechakhin023,Similar Papers Recommendation for Research Comparisons.,,https://ceur-ws.org/Vol-3510/paper_nlp_5.pdf
+https://dblp.org/rec/conf/i-semantics/NegruHL13,Towards a unified visual notation for OWL ontologies: insights from a comparative user study.,https://doi.org/10.1145/2506182.2506192,https://doi.org/10.1145/2506182.2506192
+https://dblp.org/rec/conf/i-semantics/NejadSA17,Semantic Similarity based Clustering of License Excerpts for Improved End-User Interpretation.,https://doi.org/10.1145/3132218.3132224,https://doi.org/10.1145/3132218.3132224
+https://dblp.org/rec/conf/i-semantics/NejadSAS16,EULAide: Interpretation of End-User License Agreements using Ontology-Based Information Extraction.,https://doi.org/10.1145/2993318.2993324,https://doi.org/10.1145/2993318.2993324
+https://dblp.org/rec/conf/i-semantics/NekvapilZ18,Ontologies in Support of Data Mining.,,https://ceur-ws.org/Vol-2198/paper_98.pdf
+https://dblp.org/rec/conf/i-semantics/NetoESMVM16,WASOTA: What Are the States Of The Art?,,https://ceur-ws.org/Vol-1695/paper28.pdf
+https://dblp.org/rec/conf/i-semantics/NetoKKPEH17,IDOL: Comprehensive & Complete LOD Insights.,https://doi.org/10.1145/3132218.3132238,https://doi.org/10.1145/3132218.3132238
+https://dblp.org/rec/conf/i-semantics/NeubauerP15,Linked Data Utilization along the Content Value Chain - Observations and Implications.,,https://ceur-ws.org/Vol-1481/paper3.pdf
+https://dblp.org/rec/conf/i-semantics/NeumaierSP18,Geo-Semantic Labelling of Open Data.,https://doi.org/10.1016/J.PROCS.2018.09.002,https://doi.org/10.1016/J.PROCS.2018.09.002
+https://dblp.org/rec/conf/i-semantics/NguyenW19,FAIRnets Search - A Prototype Search Service to Find Neural Networks.,,https://ceur-ws.org/Vol-2451/paper-19.pdf
+https://dblp.org/rec/conf/i-semantics/NieklerKH16,Computing Semantic Change Using Context Volatility.,,https://ceur-ws.org/Vol-1695/paper40.pdf
+https://dblp.org/rec/conf/i-semantics/NielsenTG19,Validating Danish Wikidata lexemes.,,https://ceur-ws.org/Vol-2451/paper-20.pdf
+https://dblp.org/rec/conf/i-semantics/NixonBBKP12,ConnectME: Semantic Tools for Enriching Online Video with Web Content.,,https://ceur-ws.org/Vol-932/paper11.pdf
+https://dblp.org/rec/conf/i-semantics/NixonGRS12,SmartReality: Integrating the Web into Augmented Reality.,,https://ceur-ws.org/Vol-932/paper10.pdf
+https://dblp.org/rec/conf/i-semantics/NixonYGSWC11,The state of semantic technology today: overview of the first SEALS evaluation campaigns.,https://doi.org/10.1145/2063518.2063536,https://doi.org/10.1145/2063518.2063536
+https://dblp.org/rec/conf/i-semantics/NoiaMORZ12,Linked open data to support content-based recommender systems.,https://doi.org/10.1145/2362499.2362501,https://doi.org/10.1145/2362499.2362501
+https://dblp.org/rec/conf/i-semantics/NoraMS09,The Management of the Knowledge Evolution by Using Text Mining Techniques.,,
+https://dblp.org/rec/conf/i-semantics/Nouwt17,Tight integration of Web APIs with Semantic Web.,,https://ceur-ws.org/Vol-2063/salad-paper2.pdf
+https://dblp.org/rec/conf/i-semantics/NouwtV18,"Integrating Heterogeneous Data Sources using Rule-based Reasoning, Backward-chaining and Custom Built-ins.",,https://ceur-ws.org/Vol-2198/paper_116.pdf
+https://dblp.org/rec/conf/i-semantics/OakesMJV21,Structuring and Accessing Knowledge for Historical and Streaming Digital Twins.,,https://ceur-ws.org/Vol-2941/paper17.pdf
+https://dblp.org/rec/conf/i-semantics/OdoniKBW18,On the Importance of Drill-Down Analysis for Assessing Gold Standards and Named Entity Linking Performance.,https://doi.org/10.1016/J.PROCS.2018.09.004,https://doi.org/10.1016/J.PROCS.2018.09.004
+https://dblp.org/rec/conf/i-semantics/OelenJA24,ORKG ASK: a Neuro-symbolic Scholarly Search and Exploration System.,,https://ceur-ws.org/Vol-3759/paper7.pdf
+https://dblp.org/rec/conf/i-semantics/Oevermann16,Reconstructing Semantic Structures in Technical Documentation with Vector Space Classification.,,https://ceur-ws.org/Vol-1695/paper5.pdf
+https://dblp.org/rec/conf/i-semantics/Oevermann18,Semantic PDF Segmentation for Legacy Documents in Technical Documentation.,https://doi.org/10.1016/J.PROCS.2018.09.006,https://doi.org/10.1016/J.PROCS.2018.09.006
+https://dblp.org/rec/conf/i-semantics/OliemanBK17,Finding Talk About the Past in the Discourse of Non-Historians.,,https://ceur-ws.org/Vol-2063/dal-paper2.pdf
+https://dblp.org/rec/conf/i-semantics/OliemanBLKM17,Good Applications for Crummy Entity Linkers?: The Case of Corpus Selection in Digital Humanities.,https://doi.org/10.1145/3132218.3132237,https://doi.org/10.1145/3132218.3132237
+https://dblp.org/rec/conf/i-semantics/OliemanKC15,LocLinkVis: A Geographic Information Retrieval-Based System for Large-Scale Exploratory Search.,,https://ceur-ws.org/Vol-1481/paper9.pdf
+https://dblp.org/rec/conf/i-semantics/OliemanKMN15,A Hybrid Approach to Domain-Specific Entity Linking.,,https://ceur-ws.org/Vol-1481/paper19.pdf
+https://dblp.org/rec/conf/i-semantics/OliveiraTL12,Feedback-based data set recommendation for building linked data applications.,https://doi.org/10.1145/2362499.2362507,https://doi.org/10.1145/2362499.2362507
+https://dblp.org/rec/conf/i-semantics/OrlandiBP12,"Aggregated, interoperable and multi-domain user profiles for the social web.",https://doi.org/10.1145/2362499.2362506,https://doi.org/10.1145/2362499.2362506
+https://dblp.org/rec/conf/i-semantics/OulabiB19,Using Weak Supervision to Identify Long-Tail Entities for Knowledge Base Completion.,https://doi.org/10.1007/978-3-030-33220-4_7,https://doi.org/10.1007/978-3-030-33220-4_7
+https://dblp.org/rec/conf/i-semantics/PammerKGRSL09,"Revision Support for Modeling Tasks, Topics and Skills.",,
+https://dblp.org/rec/conf/i-semantics/PanagiotouM09,A Knowledge Workbench for Software Development.,,
+https://dblp.org/rec/conf/i-semantics/PandianiLP24,Stitching Gaps: Fusing Situated Perceptual Knowledge with Vision Transformers for High-Level Image Classification.,https://doi.org/10.3233/SSW240008,https://doi.org/10.3233/SSW240008
+https://dblp.org/rec/conf/i-semantics/Pandit22,A Semantic Specification for Data Protection Impact Assessments (DPIA).,https://doi.org/10.3233/SSW220007,https://doi.org/10.3233/SSW220007
+https://dblp.org/rec/conf/i-semantics/PanditL19,OPN: Open Notice Receipt Schema.,,https://ceur-ws.org/Vol-2451/paper-21.pdf
+https://dblp.org/rec/conf/i-semantics/PanditO019,Test-Driven Approach Towards GDPR Compliance.,https://doi.org/10.1007/978-3-030-33220-4_2,https://doi.org/10.1007/978-3-030-33220-4_2
+https://dblp.org/rec/conf/i-semantics/PanditOL18,Exploring GDPR Compliance Over Provenance Graphs Using SHACL.,,https://ceur-ws.org/Vol-2198/paper_120.pdf
+https://dblp.org/rec/conf/i-semantics/PanditOL18a,Queryable Provenance Metadata For GDPR Compliance.,https://doi.org/10.1016/J.PROCS.2018.09.026,https://doi.org/10.1016/J.PROCS.2018.09.026
+https://dblp.org/rec/conf/i-semantics/PapaioannouE18,Ontological Development of a Medical Decision Making System (MDMS).,,https://ceur-ws.org/Vol-2198/paper_100.pdf
+https://dblp.org/rec/conf/i-semantics/ParadzikovicHK22,Assigning Systems to Test Environments Through Ontological Reasoning.,https://doi.org/10.3233/SSW220011,https://doi.org/10.3233/SSW220011
+https://dblp.org/rec/conf/i-semantics/PaschkeT09,Rule Based Business Process Execution with BPEL+.,,
+https://dblp.org/rec/conf/i-semantics/PaschkeTHL09,A Corporate Semantic Wiki for Scientific Workflows.,,
+https://dblp.org/rec/conf/i-semantics/PattanaphanchaiOH12,HETWIN: Helping Evaluate the Trustworthiness of Web Information for Web Users Framework using SemanticWeb Technologies.,,https://ceur-ws.org/Vol-932/paper3.pdf
+https://dblp.org/rec/conf/i-semantics/PedrettiTV24,What Do We Annotate When We Annotate? Towards a Multi-Level Approach to Semantic Annotations.,https://doi.org/10.3233/SSW240030,https://doi.org/10.3233/SSW240030
+https://dblp.org/rec/conf/i-semantics/Pellegrini12,"Integrating linked data into the content value chain: a review of news-related standards, methodologies and licensing requirements.",https://doi.org/10.1145/2362499.2362513,https://doi.org/10.1145/2362499.2362513
+https://dblp.org/rec/conf/i-semantics/PellegriniBGPL09,Semantic Web Awareness Barometer 2009 - Comparing Research- and Application-oriented Approaches to Social Software and the Semantic Web.,,
+https://dblp.org/rec/conf/i-semantics/PereiraRDMMB19,Taxonomy Extraction for Customer Service Knowledge Base Construction.,https://doi.org/10.1007/978-3-030-33220-4_13,https://doi.org/10.1007/978-3-030-33220-4_13
+https://dblp.org/rec/conf/i-semantics/PereraJ16,Cross Media Entity and Concept Driven Search.,,https://ceur-ws.org/Vol-1695/paper10.pdf
+https://dblp.org/rec/conf/i-semantics/PernelleSMT16,RDF data evolution: automatic detection and semantic representation of changes.,,https://ceur-ws.org/Vol-1695/paper29.pdf
+https://dblp.org/rec/conf/i-semantics/PeroniGV11,Dealing with markup semantics.,https://doi.org/10.1145/2063518.2063533,https://doi.org/10.1145/2063518.2063533
+https://dblp.org/rec/conf/i-semantics/PeroniSV12,"Scholarly publishing and linked data: describing roles, statuses, temporal and contextual extents.",https://doi.org/10.1145/2362499.2362502,https://doi.org/10.1145/2362499.2362502
+https://dblp.org/rec/conf/i-semantics/PeroniSV12a,Making Ontology Documentation with LODE.,,https://ceur-ws.org/Vol-932/paper12.pdf
+https://dblp.org/rec/conf/i-semantics/Perzylo24,Towards Digital Sustainability Reporting: An Ontology for Mapping of Indicators in GRI and ESRS.,https://doi.org/10.3233/SSW240016,https://doi.org/10.3233/SSW240016
+https://dblp.org/rec/conf/i-semantics/PetzkaSKHL17,Benchmarking Faceted Browsing Capabilities of Triplestores.,https://doi.org/10.1145/3132218.3132242,https://doi.org/10.1145/3132218.3132242
+https://dblp.org/rec/conf/i-semantics/PhilippidesBCTV15,Creating and Using Sports Linked Data: Analytics and Applications.,,https://ceur-ws.org/Vol-1481/paper11.pdf
+https://dblp.org/rec/conf/i-semantics/PhilippidesKIMS16,Towards Budget Comparative Analysis: the need for Fiscal Codelists as Linked Data.,,https://ceur-ws.org/Vol-1695/paper32.pdf
+https://dblp.org/rec/conf/i-semantics/PhilippKK023,Perplexed by Idioms?,https://doi.org/10.3233/SSW230006,https://doi.org/10.3233/SSW230006
+https://dblp.org/rec/conf/i-semantics/Phuoc09,SensorMasher - publishing and building mashup of sensor data.,,
+https://dblp.org/rec/conf/i-semantics/PhuocPHHH10,Live linked open sensor database.,https://doi.org/10.1145/1839707.1839763,https://doi.org/10.1145/1839707.1839763
+https://dblp.org/rec/conf/i-semantics/PiaoB16,Exploring Dynamics and Semantics of User Interests for User Modeling on Twitter for Link Recommendations.,https://doi.org/10.1145/2993318.2993332,https://doi.org/10.1145/2993318.2993332
+https://dblp.org/rec/conf/i-semantics/PiaoMPSO24,Toward Exploring Knowledge Graphs with LLMs.,,https://ceur-ws.org/Vol-3759/paper1.pdf
+https://dblp.org/rec/conf/i-semantics/PieschelWGD21,Teaching Semantic Web Technologies through Interactive Jupyter Notebooks.,,https://ceur-ws.org/Vol-2941/paper6.pdf
+https://dblp.org/rec/conf/i-semantics/Pirrotta10,Linking Italian university statistics.,https://doi.org/10.1145/1839707.1839710,https://doi.org/10.1145/1839707.1839710
+https://dblp.org/rec/conf/i-semantics/PiryaniAHLP24,Ontology Based Event Knowledge Graph Enrichment Using Case Based Reasoning.,https://doi.org/10.3233/SSW240017,https://doi.org/10.3233/SSW240017
+https://dblp.org/rec/conf/i-semantics/PisuPSORMR24,Classifying Scientific Topic Relationships with SciBERT.,,https://ceur-ws.org/Vol-3759/paper14.pdf
+https://dblp.org/rec/conf/i-semantics/PodgurskiZR22,Evaluating Web Content Using the W3C Credibility Signals.,https://doi.org/10.3233/SSW220005,https://doi.org/10.3233/SSW220005
+https://dblp.org/rec/conf/i-semantics/Pohjola10,The pragmatic web: some key issues.,https://doi.org/10.1145/1839707.1839745,https://doi.org/10.1145/1839707.1839745
+https://dblp.org/rec/conf/i-semantics/PoleksicM23,Effects of Pretraining Corpora on Scientific Relation Extraction using BERT and SciBERT.,,https://ceur-ws.org/Vol-3510/paper_nlp_3.pdf
+https://dblp.org/rec/conf/i-semantics/PompPKSM18,A Web-based UI to Enable Semantic Modeling for Everyone.,https://doi.org/10.1016/J.PROCS.2018.09.024,https://doi.org/10.1016/J.PROCS.2018.09.024
+https://dblp.org/rec/conf/i-semantics/Popitsch11,"Keep your triples together: modeling a RESTtful, layered linked data store.",https://doi.org/10.1145/2063518.2063524,https://doi.org/10.1145/2063518.2063524
+https://dblp.org/rec/conf/i-semantics/PortischHP19,Evaluating Ontology Matchers on Real-World Financial Services Data Models.,,https://ceur-ws.org/Vol-2451/paper-22.pdf
+https://dblp.org/rec/conf/i-semantics/Posada-Sanchez016,Extracting Geo-Semantics About Cities From OpenStreetMap.,,https://ceur-ws.org/Vol-1695/paper39.pdf
+https://dblp.org/rec/conf/i-semantics/ProkofyevLDC17,"SwissLink: High-Precision, Context-Free Entity Linking Exploiting Unambiguous Labels.",https://doi.org/10.1145/3132218.3132234,https://doi.org/10.1145/3132218.3132234
+https://dblp.org/rec/conf/i-semantics/ProperBP21,Towards an Ontology-Driven Approach for Digital Twin Enabled Governed IT Management.,,https://ceur-ws.org/Vol-2941/paper18.pdf
+https://dblp.org/rec/conf/i-semantics/PrudhommeauxGS14,Shape expressions: an RDF validation and transformation language.,https://doi.org/10.1145/2660517.2660523,https://doi.org/10.1145/2660517.2660523
+https://dblp.org/rec/conf/i-semantics/PublioGCM22,Ontolo-CI: Continuous data validation with ShEx.,,https://ceur-ws.org/Vol-3235/paper6.pdf
+https://dblp.org/rec/conf/i-semantics/PuttenIBA17,Event Extraction From Radio News Bulletins.,,https://ceur-ws.org/Vol-2063/events-paper4.pdf
+https://dblp.org/rec/conf/i-semantics/QuasthoffHH09,Standardized Multilingual Language Resourcesfor the Web of Data.,,
+https://dblp.org/rec/conf/i-semantics/QuasthoffSM09,Can Software Developers Use Linked Data Vocabulary?,,
+https://dblp.org/rec/conf/i-semantics/QuasthoffVM10,Unsupervised matching of object models and ontologies using canonical vocabulary.,https://doi.org/10.1145/1839707.1839716,https://doi.org/10.1145/1839707.1839716
+https://dblp.org/rec/conf/i-semantics/QuocP15,An elastic and scalable spatiotemporal query processing for linked sensor data.,https://doi.org/10.1145/2814864.2814869,https://doi.org/10.1145/2814864.2814869
+https://dblp.org/rec/conf/i-semantics/RaaijmakersB18,Exploiting Ontologies for Deep Learning: A Case for Sentiment Mining.,,https://ceur-ws.org/Vol-2198/paper_112.pdf
+https://dblp.org/rec/conf/i-semantics/RaaijmakersSK17,Investigating the interpretability of hidden layers in deep text mining.,https://doi.org/10.1145/3132218.3132240,https://doi.org/10.1145/3132218.3132240
+https://dblp.org/rec/conf/i-semantics/RabbySB22,Augmenting a COVID-19 Research Knowledge Graph with Influential Papers Prediction.,,https://ceur-ws.org/Vol-3235/paper20.pdf
+https://dblp.org/rec/conf/i-semantics/RadingerRSH13,BauDataWeb: the Austrian building and construction materials market as linked data.,https://doi.org/10.1145/2506182.2506186,https://doi.org/10.1145/2506182.2506186
+https://dblp.org/rec/conf/i-semantics/RandlesO22,Evaluating Quality Improvement Techniques Within the Linked Data Generation Process.,https://doi.org/10.3233/SSW220006,https://doi.org/10.3233/SSW220006
+https://dblp.org/rec/conf/i-semantics/RandlesOKF22,Applying a Mapping Quality Framework in Cloud Native Monitoring.,,https://ceur-ws.org/Vol-3235/paper4.pdf
+https://dblp.org/rec/conf/i-semantics/RandlesOMYKC24,Facilitating Search of the Virtual Record Treasury of Ireland Knowledge Graph using ChatGPT.,,https://ceur-ws.org/Vol-3759/paper15.pdf
+https://dblp.org/rec/conf/i-semantics/RantalaLPH24,Representing and Searching Associations in Cultural Heritage Knowledge Graphs Using Faceted Search.,https://doi.org/10.3233/SSW240033,https://doi.org/10.3233/SSW240033
+https://dblp.org/rec/conf/i-semantics/RautenbergEMAN15,LODFlow: a workflow management system for linked data processing.,https://doi.org/10.1145/2814864.2814882,https://doi.org/10.1145/2814864.2814882
+https://dblp.org/rec/conf/i-semantics/RazmeritaFJ09,Towards a New Generation of Social Networks: Merging Social Web with Semantic Web.,,
+https://dblp.org/rec/conf/i-semantics/RebstadtBEM16,A Visual Language for OWL Lite Editing.,,https://ceur-ws.org/Vol-1695/paper8.pdf
+https://dblp.org/rec/conf/i-semantics/ReizS22,NEOntometrics: A Flexible And Scalable Software For Calculating Ontology Metrics.,,https://ceur-ws.org/Vol-3235/paper16.pdf
+https://dblp.org/rec/conf/i-semantics/ReizSS23,OntoAnon: An Anonymizer For Sharing Ontology Structure Without Data.,,https://ceur-ws.org/Vol-3526/paper-06.pdf
+https://dblp.org/rec/conf/i-semantics/RevenkoBMSK24,Investigate the Impact of Contextual Information on LLMs for Taxonomy Expansion.,https://doi.org/10.3233/SSW240005,https://doi.org/10.3233/SSW240005
+https://dblp.org/rec/conf/i-semantics/RevenkoMBBSKR22,Learning Ontology Classes from Text by Clustering Lexical Substitutes Derived from Language Models.,https://doi.org/10.3233/SSW220018,https://doi.org/10.3233/SSW220018
+https://dblp.org/rec/conf/i-semantics/RibonVKS16,GADES: A Graph-based Semantic Similarity Measure.,https://doi.org/10.1145/2993318.2993343,https://doi.org/10.1145/2993318.2993343
+https://dblp.org/rec/conf/i-semantics/RindGKSO18,ContractVis HighLighter: The Visual Assistant for the Fine Print.,,https://ceur-ws.org/Vol-2198/paper_93.pdf
+https://dblp.org/rec/conf/i-semantics/RiveraRLMCMSG17,Adaptation of Ontology Sets for Water Related Scenarios Management with IoT Systems for a More Productive and Sustainable Agriculture Systems.,,https://ceur-ws.org/Vol-2063/sisiot-paper5.pdf
+https://dblp.org/rec/conf/i-semantics/Roa-Valverde11,Multimedia information retrieval as a practical application for interlinking approaches.,https://doi.org/10.1145/2063518.2063556,https://doi.org/10.1145/2063518.2063556
+https://dblp.org/rec/conf/i-semantics/RordenRHB17,Network-based Knowledge Graph Assessment.,,https://ceur-ws.org/Vol-2044/paper12/
+https://dblp.org/rec/conf/i-semantics/RoussakisPT18,Assistive Query Building for Semantic Data.,,https://ceur-ws.org/Vol-2198/paper_107.pdf
+https://dblp.org/rec/conf/i-semantics/RowlandSFMMA24,Access Governance with Linked Data: Authorisation Ontology and Enforcement Mechanisms in the Dutch Federated Data System Context.,https://doi.org/10.3233/SSW240020,https://doi.org/10.3233/SSW240020
+https://dblp.org/rec/conf/i-semantics/RyanPB21,Building a Data Processing Activities Catalog: Representing Heterogeneous Compliance-Related Information for GDPR Using DCAT-AP and DPV.,https://doi.org/10.3233/SSW210043,https://doi.org/10.3233/SSW210043
+https://dblp.org/rec/conf/i-semantics/SaadMM12,Semantic analysis of human movements in videos.,https://doi.org/10.1145/2362499.2362519,https://doi.org/10.1145/2362499.2362519
+https://dblp.org/rec/conf/i-semantics/SabouBA12,Supporting tourism decision making with linked data.,https://doi.org/10.1145/2362499.2362533,https://doi.org/10.1145/2362499.2362533
+https://dblp.org/rec/conf/i-semantics/SaccoB12,PPO & PPM 2.0: extending the privacy preference framework to provide finer-grained access control for the web of data.,https://doi.org/10.1145/2362499.2362511,https://doi.org/10.1145/2362499.2362511
+https://dblp.org/rec/conf/i-semantics/SaccoLY17,Game Character Ontology (GCO) A Vocabulary for Extracting and Describing Game Character Information from Web Content.,https://doi.org/10.1145/3132218.3132233,https://doi.org/10.1145/3132218.3132233
+https://dblp.org/rec/conf/i-semantics/SaccoPB12,User Controlled Privacy for Filtering the Web of Data with a User-Friendly Manager.,,https://ceur-ws.org/Vol-932/paper9.pdf
+https://dblp.org/rec/conf/i-semantics/SadeghiSS021,BenchEmbedd: A FAIR Benchmarking tool forKnowledge Graph Embeddings.,,https://ceur-ws.org/Vol-2941/paper14.pdf
+https://dblp.org/rec/conf/i-semantics/Sageder21,Annotating Entities with Fine-Grained Types in Austrian Court Decisions.,https://doi.org/10.3233/SSW210041,https://doi.org/10.3233/SSW210041
+https://dblp.org/rec/conf/i-semantics/SahlmannS15,MOCAP: Towards the Semantic Web of Things.,,https://ceur-ws.org/Vol-1481/paper20.pdf
+https://dblp.org/rec/conf/i-semantics/SahW12,A Novel Concept-based Search for the Web of Data.,,https://ceur-ws.org/Vol-932/paper1.pdf
+https://dblp.org/rec/conf/i-semantics/SajadiMH18,FarsBase: A Cross-Domain Farsi knowledge Graph.,,https://ceur-ws.org/Vol-2198/paper_115.pdf
+https://dblp.org/rec/conf/i-semantics/SalasBFC10,Interoperability by design using the StdTrip tool: an a priori approach.,https://doi.org/10.1145/1839707.1839760,https://doi.org/10.1145/1839707.1839760
+https://dblp.org/rec/conf/i-semantics/SalazarJS23,Classification of Linking Problem Types for Linking Semantic Data.,https://doi.org/10.3233/SSW230014,https://doi.org/10.3233/SSW230014
+https://dblp.org/rec/conf/i-semantics/SaleemPNADD13,Linked cancer genome atlas database.,https://doi.org/10.1145/2506182.2506200,https://doi.org/10.1145/2506182.2506200
+https://dblp.org/rec/conf/i-semantics/SandeVDMW12,Lightweight Transformation of Tabular Open Data to RDF.,,https://ceur-ws.org/Vol-932/paper8.pdf
+https://dblp.org/rec/conf/i-semantics/SandeVMTSV19,Discovering Data Sources in a Distributed Network of Heritage Information.,,https://ceur-ws.org/Vol-2451/paper-28.pdf
+https://dblp.org/rec/conf/i-semantics/SandeVMW15,Updating SPARQL results in real-time with client-side fragment patching.,https://doi.org/10.1145/2814864.2814892,https://doi.org/10.1145/2814864.2814892
+https://dblp.org/rec/conf/i-semantics/SanguinettiAP22,rewordQALD9: A Bilingual Benchmark with Alternative Rewordings of QALD Questions.,,https://ceur-ws.org/Vol-3235/paper7.pdf
+https://dblp.org/rec/conf/i-semantics/SantipantakisKV15,Accessing and reasoning with data from disparate data sources using modular ontologies and OBDA.,https://doi.org/10.1145/2814864.2814874,https://doi.org/10.1145/2814864.2814874
+https://dblp.org/rec/conf/i-semantics/SantipantakisVD17,Specification of Semantic Trajectories Supporting Data Transformations for Analytics: The datAcron Ontology.,https://doi.org/10.1145/3132218.3132225,https://doi.org/10.1145/3132218.3132225
+https://dblp.org/rec/conf/i-semantics/Sanz-LucioTR21,Latest enhancements in the Spanish DBpedia.,,https://ceur-ws.org/Vol-2941/paper8.pdf
+https://dblp.org/rec/conf/i-semantics/SardinaDKO24,TWIG-I: Embedding-Free Link Prediction and Cross-KG Transfer Learning Using a Small Neural Architecture.,https://doi.org/10.3233/SSW240010,https://doi.org/10.3233/SSW240010
+https://dblp.org/rec/conf/i-semantics/SatsiouRPKPBK16,Semantic Technology for Financial Awareness.,,https://ceur-ws.org/Vol-1695/paper17.pdf
+https://dblp.org/rec/conf/i-semantics/SauterW17,Linked Spatial Data for a Circular Economy: Exploring its potential through a Textile Use Case.,,https://ceur-ws.org/Vol-2044/paper10/
+https://dblp.org/rec/conf/i-semantics/SavenkovMUP17,Counting to k or how SPARQL1.1 Property Paths Can Be Extended to Top-k Path Queries.,https://doi.org/10.1145/3132218.3132239,https://doi.org/10.1145/3132218.3132239
+https://dblp.org/rec/conf/i-semantics/SchafermeierP11,Using domain ontologies for finding experts in corporate wikis.,https://doi.org/10.1145/2063518.2063527,https://doi.org/10.1145/2063518.2063527
+https://dblp.org/rec/conf/i-semantics/SchaffertBKDGF12,The linked media framework: integrating and interlinking enterprise media content and data.,https://doi.org/10.1145/2362499.2362504,https://doi.org/10.1145/2362499.2362504
+https://dblp.org/rec/conf/i-semantics/Schandl09,TripFS Exposing File Systems as Linked Data.,,
+https://dblp.org/rec/conf/i-semantics/SchieseP024,Post-Hoc Insights: Natural-Language Explanations for AI-Enhanced/-Integrated Software Systems.,,https://ceur-ws.org/Vol-3759/paper25.pdf
+https://dblp.org/rec/conf/i-semantics/SchindlerVRV11,How to teach digital library data to swim into research.,https://doi.org/10.1145/2063518.2063537,https://doi.org/10.1145/2063518.2063537
+https://dblp.org/rec/conf/i-semantics/SchmidtRKP24,Scaling Scientific Knowledge Discovery with Neuro-Symbolic AI and Large Language Models.,,https://ceur-ws.org/Vol-3759/workshop4.pdf
+https://dblp.org/rec/conf/i-semantics/SchmittKS19,Improving NLU Training over Linked Data with Placeholder Concepts.,https://doi.org/10.1007/978-3-030-33220-4_6,https://doi.org/10.1007/978-3-030-33220-4_6
+https://dblp.org/rec/conf/i-semantics/SchrageHP19,Extracting Literal Assertions for DBpedia from Wikipedia Abstracts.,https://doi.org/10.1007/978-3-030-33220-4_21,https://doi.org/10.1007/978-3-030-33220-4_21
+https://dblp.org/rec/conf/i-semantics/SchubotzVARS17,"Requirements and Specifications for Robots, Linked Data and all the REST.",,https://ceur-ws.org/Vol-2063/lidari-paper4.pdf
+https://dblp.org/rec/conf/i-semantics/SchullerK15,"Using Semantic Web Resources for Solving Winograd Schemas: Sculptures, Shelves, Envy, and Success.",,https://ceur-ws.org/Vol-1481/paper7.pdf
+https://dblp.org/rec/conf/i-semantics/SchulzePSJM022,Towards Knowledge Graph Based Services in Accounting Use Cases.,,https://ceur-ws.org/Vol-3235/paper19.pdf
+https://dblp.org/rec/conf/i-semantics/SchumacherGK14,Semantics for the music industry: the development of the music business ontology (MBO).,https://doi.org/10.1145/2660517.2660531,https://doi.org/10.1145/2660517.2660531
+https://dblp.org/rec/conf/i-semantics/SchwagereitRRTL22,FAIR Data APIs in the FAIR in Vivo Data Sharing Platform.,,https://ceur-ws.org/Vol-3235/paper25.pdf
+https://dblp.org/rec/conf/i-semantics/ScroccaABCL22,Towards napDCAT-AP: Roadmap and Requirements for a Transportation Metadata Specification.,,https://ceur-ws.org/Vol-3235/paper22.pdf
+https://dblp.org/rec/conf/i-semantics/ScroccaCCC22,Modelling Business Agreements in the Multimodal Transportation Domain Through Ontological Smart Contracts.,https://doi.org/10.3233/SSW220016,https://doi.org/10.3233/SSW220016
+https://dblp.org/rec/conf/i-semantics/SeidelKBG16,KESeDa: Knowledge Extraction from Heterogeneous Semi-Structured Data Sources.,https://doi.org/10.1145/2993318.2993335,https://doi.org/10.1145/2993318.2993335
+https://dblp.org/rec/conf/i-semantics/SeidlmayerGM19,Take it Personally - A Python library for data enrichment for infometrical applications.,,https://ceur-ws.org/Vol-2451/paper-23.pdf
+https://dblp.org/rec/conf/i-semantics/SejdiuGKLJ019,Towards a Scalable Semantic-Based Distributed Approach for SPARQL Query Evaluation.,https://doi.org/10.1007/978-3-030-33220-4_22,https://doi.org/10.1007/978-3-030-33220-4_22
+https://dblp.org/rec/conf/i-semantics/ShafeiHM18,Ensuring Workplace Safety in Goal-based Industrial Manufacturing Systems.,https://doi.org/10.1016/J.PROCS.2018.09.009,https://doi.org/10.1016/J.PROCS.2018.09.009
+https://dblp.org/rec/conf/i-semantics/Shahri10,Foundations of data interoperability on the web: a web science perspective.,https://doi.org/10.1145/1839707.1839715,https://doi.org/10.1145/1839707.1839715
+https://dblp.org/rec/conf/i-semantics/SherifN15,An optimization approach for load balancing in parallel link discovery.,https://doi.org/10.1145/2814864.2814872,https://doi.org/10.1145/2814864.2814872
+https://dblp.org/rec/conf/i-semantics/ShivashankarS23,Challenges of Entity Linking in KGQA datasets.,,https://ceur-ws.org/Vol-3510/paper_nlp_6.pdf
+https://dblp.org/rec/conf/i-semantics/ShoileeBO23,Polyvocal Knowledge Modelling for Ethnographic Heritage Object Provenance.,https://doi.org/10.3233/SSW230010,https://doi.org/10.3233/SSW230010
+https://dblp.org/rec/conf/i-semantics/SibaraniSMAC17,Ontology-guided Job Market Demand Analysis: A Cross-Sectional Study for the Data Science field.,https://doi.org/10.1145/3132218.3132228,https://doi.org/10.1145/3132218.3132228
+https://dblp.org/rec/conf/i-semantics/SikorskiDR15,EnArgus - Ontology Based Search.,,https://ceur-ws.org/Vol-1481/paper2.pdf
+https://dblp.org/rec/conf/i-semantics/SilveiraP22,Persistent Identifiers and Their Limitations in a Dynamic Web.,,https://ceur-ws.org/Vol-3235/paper24.pdf
+https://dblp.org/rec/conf/i-semantics/SimkoB12,Personal image tagging: a game-based approach.,https://doi.org/10.1145/2362499.2362512,https://doi.org/10.1145/2362499.2362512
+https://dblp.org/rec/conf/i-semantics/SimsekFZFLBSG16,A semantic approach towards implementing energy efficient lifestyles through behavioural change.,https://doi.org/10.1145/2993318.2993346,https://doi.org/10.1145/2993318.2993346
+https://dblp.org/rec/conf/i-semantics/SimsekKF18,Machine Readable Web APIs with Schema.org Action Annotations.,https://doi.org/10.1016/J.PROCS.2018.09.025,https://doi.org/10.1016/J.PROCS.2018.09.025
+https://dblp.org/rec/conf/i-semantics/SinghVR023,Towards aligning IoT data with domain-specific ontologies through Semantic Web technologies and NLP.,,https://ceur-ws.org/Vol-3510/paper_nlp_1.pdf
+https://dblp.org/rec/conf/i-semantics/Skaf-MolliMIB24,Enabling Delayed-Answer Auctions for RDF Knowledge Graphs Monetisation.,https://doi.org/10.3233/SSW240022,https://doi.org/10.3233/SSW240022
+https://dblp.org/rec/conf/i-semantics/Skulimowski14,Expanded citations and projections of concepts.,https://doi.org/10.1145/2660517.2660537,https://doi.org/10.1145/2660517.2660537
+https://dblp.org/rec/conf/i-semantics/SoaresCPSDBMDSL22,Building a Community-Based FAIR Metadata Schema for Brazilian Agriculture and Livestock Trading Data.,,https://ceur-ws.org/Vol-3235/paper26.pdf
+https://dblp.org/rec/conf/i-semantics/SofticTH09,Weaving Social E-Learning Platforms Into the Web of Linked Data.,,
+https://dblp.org/rec/conf/i-semantics/SolankiB14,Detecting EPCIS exceptions in linked traceability streams across supply chain business processes.,https://doi.org/10.1145/2660517.2660524,https://doi.org/10.1145/2660517.2660524
+https://dblp.org/rec/conf/i-semantics/SolankiSC12,LEAPS: realising the potential of algal biomass production through semantic web and linked data.,https://doi.org/10.1145/2362499.2362516,https://doi.org/10.1145/2362499.2362516
+https://dblp.org/rec/conf/i-semantics/SongMM16,Linking Images to Semantic Knowledge Base with User-generated Tags.,https://doi.org/10.1145/2993318.2993340,https://doi.org/10.1145/2993318.2993340
+https://dblp.org/rec/conf/i-semantics/SorucoC0U23,QALD-9-ES: A Spanish Dataset for Question Answering Systems.,https://doi.org/10.3233/SSW230004,https://doi.org/10.3233/SSW230004
+https://dblp.org/rec/conf/i-semantics/SoruMMPVEN17,SPARQL as a Foreign Language.,,https://ceur-ws.org/Vol-2044/paper14/
+https://dblp.org/rec/conf/i-semantics/SoruN14,A comparison of supervised learning classifiers for link discovery.,https://doi.org/10.1145/2660517.2660532,https://doi.org/10.1145/2660517.2660532
+https://dblp.org/rec/conf/i-semantics/SpeiserH10,Taking the LIDS off data silos.,https://doi.org/10.1145/1839707.1839761,https://doi.org/10.1145/1839707.1839761
+https://dblp.org/rec/conf/i-semantics/StadlerAML15,RDF Editing on the Web.,,https://ceur-ws.org/Vol-1481/paper29.pdf
+https://dblp.org/rec/conf/i-semantics/StadlerW0TJ19,RDF-based Deployment Pipelining for Efficient Dataset Release Management.,,https://ceur-ws.org/Vol-2451/paper-24.pdf
+https://dblp.org/rec/conf/i-semantics/Stahn22,The Semantics inWorks. Modelling the author's work and its making.,,https://ceur-ws.org/Vol-3235/paper5.pdf
+https://dblp.org/rec/conf/i-semantics/StankovicBL11,Linked-data based suggestion of relevant topics.,https://doi.org/10.1145/2063518.2063525,https://doi.org/10.1145/2063518.2063525
+https://dblp.org/rec/conf/i-semantics/Stavrakantonakis14,Matching Web Entities with Potential Actions.,,https://ceur-ws.org/Vol-1224/paper9.pdf
+https://dblp.org/rec/conf/i-semantics/Stavrakantonakis16,Linked Open Vocabulary Ranking and Terms Discovery.,https://doi.org/10.1145/2993318.2993338,https://doi.org/10.1145/2993318.2993338
+https://dblp.org/rec/conf/i-semantics/Stavrakantonakis16a,Towards a Vocabulary Terms Discovery Assistant.,https://doi.org/10.1145/2993318.2993347,https://doi.org/10.1145/2993318.2993347
+https://dblp.org/rec/conf/i-semantics/StavropoulosARK16,A Framework for Measuring Semantic Drift in Ontologies.,,https://ceur-ws.org/Vol-1695/paper42.pdf
+https://dblp.org/rec/conf/i-semantics/StegerKS13,Resource Description Graph Views for Configuring Linked Data Visualizations.,,https://ceur-ws.org/Vol-1026/paper7.pdf
+https://dblp.org/rec/conf/i-semantics/Steyskal0PFBGLR24,Towards SHACL-based Knowledge Graph Transformation of Visual Domain Knowledge.,,https://ceur-ws.org/Vol-3759/paper18.pdf
+https://dblp.org/rec/conf/i-semantics/SteyskalK15,"If you can't enforce it, contract it: Enforceability in Policy-Driven (Linked) Data Markets.",,https://ceur-ws.org/Vol-1481/paper21.pdf
+https://dblp.org/rec/conf/i-semantics/SteyskalP14,Defining expressive access policies for linked data using the ODRL ontology 2.0.,https://doi.org/10.1145/2660517.2660530,https://doi.org/10.1145/2660517.2660530
+https://dblp.org/rec/conf/i-semantics/StromertLOHK23,"Towards a Versatile Terminology Service for Empowering FAIR Research Data: Enabling Ontology Discovery, Design, Curation, and Utilization Across Scientific Communities.",https://doi.org/10.3233/SSW230005,https://doi.org/10.3233/SSW230005
+https://dblp.org/rec/conf/i-semantics/SuiSG019,The Hubs and Authorities Transaction Network Analysis using the SANSA framework.,,https://ceur-ws.org/Vol-2451/paper-25.pdf
+https://dblp.org/rec/conf/i-semantics/Svarovsky21,m-ld: Realtime Information Sharing with RDF.,,https://ceur-ws.org/Vol-2941/paper1.pdf
+https://dblp.org/rec/conf/i-semantics/SvatekKDNK15,Procurement notice enrichment using product ontologies.,https://doi.org/10.1145/2814864.2814891,https://doi.org/10.1145/2814864.2814891
+https://dblp.org/rec/conf/i-semantics/SymeonidouSG19,Transfer Learning for Biomedical Named Entity Recognition with BioBERT.,,https://ceur-ws.org/Vol-2451/paper-26.pdf
+https://dblp.org/rec/conf/i-semantics/SzaszFM16,iLOC - building indoor navigation services using Linked Data.,,https://ceur-ws.org/Vol-1695/paper30.pdf
+https://dblp.org/rec/conf/i-semantics/Taelman0HSVV18,On the Semantics of Tpf-qs towards Publishing and Querying rdf Streams at Web-scale.,https://doi.org/10.1016/J.PROCS.2018.09.005,https://doi.org/10.1016/J.PROCS.2018.09.005
+https://dblp.org/rec/conf/i-semantics/TakisI0A15,Crowdsourced semantic annotation of scientific publications and tabular data in PDF.,https://doi.org/10.1145/2814864.2814887,https://doi.org/10.1145/2814864.2814887
+https://dblp.org/rec/conf/i-semantics/TanaseK12,Are SKOS concept schemes ready for multilingual retrieval applications?,https://doi.org/10.1145/2362499.2362520,https://doi.org/10.1145/2362499.2362520
+https://dblp.org/rec/conf/i-semantics/TessemJV13,Mobile Location-Driven Associative Search in DBpedia with Tag Clouds.,,https://ceur-ws.org/Vol-1026/paper2.pdf
+https://dblp.org/rec/conf/i-semantics/ThakkarKDLA17,Trying Not to Die Benchmarking: Orchestrating RDF and Graph Data Management Solution Benchmarks Using LITMUS.,https://doi.org/10.1145/3132218.3132232,https://doi.org/10.1145/3132218.3132232
+https://dblp.org/rec/conf/i-semantics/ThakkerDLDKY11,A priori ontology modularisation in ill-defined domains.,https://doi.org/10.1145/2063518.2063541,https://doi.org/10.1145/2063518.2063541
+https://dblp.org/rec/conf/i-semantics/ThalhammerST13,Diversity-Aware Clustering of SIOC Posts.,,https://ceur-ws.org/Vol-1026/paper1.pdf
+https://dblp.org/rec/conf/i-semantics/ThellmannOA14,LinDA - Visualising and Exploring Linked Data.,,https://ceur-ws.org/Vol-1224/paper10.pdf
+https://dblp.org/rec/conf/i-semantics/Thiessen0S23,Probing Large Language Models for Scientific Synonyms.,,https://ceur-ws.org/Vol-3510/paper_nlp_2.pdf
+https://dblp.org/rec/conf/i-semantics/ThorneFS16,Cross-Evaluation of Entity Linking and Disambiguation Systems for Clinical Text Annotation.,https://doi.org/10.1145/2993318.2993345,https://doi.org/10.1145/2993318.2993345
+https://dblp.org/rec/conf/i-semantics/ThostZ15,Temporal Query Answering in a Fuzzy World.,,https://ceur-ws.org/Vol-1481/paper26.pdf
+https://dblp.org/rec/conf/i-semantics/TietzS19,Linked Data Supported Content Analysis for Sociology.,https://doi.org/10.1007/978-3-030-33220-4_3,https://doi.org/10.1007/978-3-030-33220-4_3
+https://dblp.org/rec/conf/i-semantics/TietzWZFMWS19,Linked Stage Graph.,,https://ceur-ws.org/Vol-2451/paper-27.pdf
+https://dblp.org/rec/conf/i-semantics/TomicFP10,"SESAME demonstrator: ontologies, services and policies for energy efficiency.",https://doi.org/10.1145/1839707.1839738,https://doi.org/10.1145/1839707.1839738
+https://dblp.org/rec/conf/i-semantics/TomicWHAD15,Enabling Semantic Web for Precision Agriculture: a showcase of agriOpenLink Project.,,https://ceur-ws.org/Vol-1481/paper8.pdf
+https://dblp.org/rec/conf/i-semantics/ToppanoR09,A Semiotic Framework for Ontology Development.,,
+https://dblp.org/rec/conf/i-semantics/TopperKS12,DBpedia ontology enrichment for inconsistency detection.,https://doi.org/10.1145/2362499.2362505,https://doi.org/10.1145/2362499.2362505
+https://dblp.org/rec/conf/i-semantics/TrajanovZSRFJG12,Semantic sky: a platform for cloud service integration based on semantic web technologies.,https://doi.org/10.1145/2362499.2362515,https://doi.org/10.1145/2362499.2362515
+https://dblp.org/rec/conf/i-semantics/TroncyMF10,Linking events with media.,https://doi.org/10.1145/1839707.1839759,https://doi.org/10.1145/1839707.1839759
+https://dblp.org/rec/conf/i-semantics/TuanHHP19,Incorporating Blockchain into RDF Store at the Lightweight Edge Devices.,https://doi.org/10.1007/978-3-030-33220-4_27,https://doi.org/10.1007/978-3-030-33220-4_27
+https://dblp.org/rec/conf/i-semantics/TurkerZKS18,"""The Less Is More"" for Text Classification, .",,https://ceur-ws.org/Vol-2198/paper_122.pdf
+https://dblp.org/rec/conf/i-semantics/UnbehauenFM16,Enforcing scalable authorization on SPARQL queries.,,https://ceur-ws.org/Vol-1695/paper38.pdf
+https://dblp.org/rec/conf/i-semantics/UnbehauenM16,Executing SPARQL queries over Mapped Document Store with SparqlMap-M.,https://doi.org/10.1145/2993318.2993326,https://doi.org/10.1145/2993318.2993326
+https://dblp.org/rec/conf/i-semantics/UnbehauenNS16,Adding Semantics to Model Driven ApplicationDevelopment with CVtec and SparqlMap.,,https://ceur-ws.org/Vol-1695/paper35.pdf
+https://dblp.org/rec/conf/i-semantics/UzunK12,OpenMobileNetwork: extending the web of data by a dataset for mobile networks and devices.,https://doi.org/10.1145/2362499.2362503,https://doi.org/10.1145/2362499.2362503
+https://dblp.org/rec/conf/i-semantics/UzunLGK13,Turning the OpenMobileNetwork into a live crowdsourcing platform for semantic context-aware services.,https://doi.org/10.1145/2506182.2506194,https://doi.org/10.1145/2506182.2506194
+https://dblp.org/rec/conf/i-semantics/VafopoulosMRXKV13,Insights in global public spending.,https://doi.org/10.1145/2506182.2506201,https://doi.org/10.1145/2506182.2506201
+https://dblp.org/rec/conf/i-semantics/VakulenkoS17,TableQA: Question Answering on Tabular Data.,,https://ceur-ws.org/Vol-2044/paper1/
+https://dblp.org/rec/conf/i-semantics/ValdestilhasAK15,DBpediaSameAs: An approach to tackle heterogeneity in DBpedia identifiers.,,https://ceur-ws.org/Vol-1481/paper1.pdf
+https://dblp.org/rec/conf/i-semantics/VasilevichW22,Language-Agnostic Knowledge Graphs for Smarter Multilingual Chatbots.,,https://ceur-ws.org/Vol-3235/paper2.pdf
+https://dblp.org/rec/conf/i-semantics/VasiliuDERP24,Modeling and Generating Extreme Volumes of Financial Synthetic Time-Series Data with Knowledge Graphs.,,https://ceur-ws.org/Vol-3759/workshop7.pdf
+https://dblp.org/rec/conf/i-semantics/VasiliuMKDBHFCF16,In or Out? Real-Time Monitoring of BREXIT sentiment on Twitter.,,https://ceur-ws.org/Vol-1695/paper31.pdf
+https://dblp.org/rec/conf/i-semantics/VassiliadesBGP20,A Knowledge Retrieval Framework for Household Objects and Actions with External Knowledge.,https://doi.org/10.1007/978-3-030-59833-4_3,https://doi.org/10.1007/978-3-030-59833-4_3
+https://dblp.org/rec/conf/i-semantics/VassiliadesPEBB21,Object-Action Association Extraction from Knowledge Graphs.,https://doi.org/10.3233/SSW210048,https://doi.org/10.3233/SSW210048
+https://dblp.org/rec/conf/i-semantics/VercruysseRC24,Linking application and semantic data with RDF Lens.,,https://ceur-ws.org/Vol-3759/paper13.pdf
+https://dblp.org/rec/conf/i-semantics/VeresE13,Schema.org for the Semantic Web with MaDaME.,,https://ceur-ws.org/Vol-1026/paper3.pdf
+https://dblp.org/rec/conf/i-semantics/VerhulstIBA17,Optimizing Explorative Search for the Needs of Media Professionals: The DIVE+ Use Case.,,https://ceur-ws.org/Vol-2063/events-paper5.pdf
+https://dblp.org/rec/conf/i-semantics/Verlic12,LODGrefine - LOD-enabled Google Refine in Action.,,https://ceur-ws.org/Vol-932/paper7.pdf
+https://dblp.org/rec/conf/i-semantics/VitaMFFM17,Instrumenting the UNWTO's Thesaurus on Tourism & Leisure Activities for seamless adoption in the Web of Data.,,https://ceur-ws.org/Vol-2044/paper15/
+https://dblp.org/rec/conf/i-semantics/Vogel-Fernandez22,esT5s: A Spanish Model for Text Summarization.,https://doi.org/10.3233/SSW220020,https://doi.org/10.3233/SSW220020
+https://dblp.org/rec/conf/i-semantics/VollmersJMTNU21,Knowledge Graph Question Answering Using Graph-Pattern Isomorphism.,https://doi.org/10.3233/SSW210038,https://doi.org/10.3233/SSW210038
+https://dblp.org/rec/conf/i-semantics/VollmersSZN24,Enhancing Answers Verbalization Using Large Language Models.,https://doi.org/10.3233/SSW240027,https://doi.org/10.3233/SSW240027
+https://dblp.org/rec/conf/i-semantics/VolpiniRC17,Is Semantic Markup Really Helping Websites Improve their Online Visibility?,,https://ceur-ws.org/Vol-2044/paper13/
+https://dblp.org/rec/conf/i-semantics/WagnerSSH10,Harnessing semantic web technologies for solving the dilemma of content providers.,https://doi.org/10.1145/1839707.1839733,https://doi.org/10.1145/1839707.1839733
+https://dblp.org/rec/conf/i-semantics/WaitelonisJS16,Don't compare Apples to Oranges: Extending GERBIL for a fine grained NEL evaluation.,https://doi.org/10.1145/2993318.2993334,https://doi.org/10.1145/2993318.2993334
+https://dblp.org/rec/conf/i-semantics/WaitelonisS09,Augmenting Video Search with Linked Open Data.,,
+https://dblp.org/rec/conf/i-semantics/WalraffCDMFDD24,Facilitating Learning Analytics in Histology Courses with Knowledge Graphs.,,https://ceur-ws.org/Vol-3759/paper2.pdf
+https://dblp.org/rec/conf/i-semantics/WarrenMCM15,Making sense of description logics.,https://doi.org/10.1145/2814864.2814866,https://doi.org/10.1145/2814864.2814866
+https://dblp.org/rec/conf/i-semantics/WauerBSNE15,Integrating custom index extensions into virtuoso RDF store for e-commerce applications.,https://doi.org/10.1145/2814864.2814877,https://doi.org/10.1145/2814864.2814877
+https://dblp.org/rec/conf/i-semantics/Weigand09,Value Modeling for the Pragmatic Web - the Case of Social Advertising.,,
+https://dblp.org/rec/conf/i-semantics/Weigand11,The pragmatics of event-driven business processes.,https://doi.org/10.1145/2063518.2063551,https://doi.org/10.1145/2063518.2063551
+https://dblp.org/rec/conf/i-semantics/WeigandA10,Value network analysis for the pragmatic web: a case of logistic innovation.,https://doi.org/10.1145/1839707.1839747,https://doi.org/10.1145/1839707.1839747
+https://dblp.org/rec/conf/i-semantics/WeigeltLB19,How to Prepare an API for Programming in Natural Language.,,https://ceur-ws.org/Vol-2451/paper-29.pdf
+https://dblp.org/rec/conf/i-semantics/WeissBVSH09,SALERO Intelligent Media Annotation & Search.,,
+https://dblp.org/rec/conf/i-semantics/WellerM16,Adaptive Semantic Process Modeling Tool.,,https://ceur-ws.org/Vol-1695/paper18.pdf
+https://dblp.org/rec/conf/i-semantics/WellerM17,Annotating sBPMN Elements with their Likelihood of Occurrence.,,https://ceur-ws.org/Vol-2063/salad-paper3.pdf
+https://dblp.org/rec/conf/i-semantics/WernerRHL21,"Embedding Taxonomical, Situational or Sequential Knowledge Graph Context for Recommendation Tasks.",https://doi.org/10.3233/SSW210046,https://doi.org/10.3233/SSW210046
+https://dblp.org/rec/conf/i-semantics/WestphalFKL18,SPIRIT: A Semantic Transparency and Compliance Stack.,,https://ceur-ws.org/Vol-2198/paper_119.pdf
+https://dblp.org/rec/conf/i-semantics/WetzSJP12,Matching Linked Open Data Entities to Local Thesaurus Concepts.,,https://ceur-ws.org/Vol-932/paper2.pdf
+https://dblp.org/rec/conf/i-semantics/WissenONK21,Cinema Context as Linked Open Data: Converting an online Dutch film culture dataset to RDF.,,https://ceur-ws.org/Vol-2941/paper10.pdf
+https://dblp.org/rec/conf/i-semantics/WohlanSH19,"Generating ""Who Wants to Be a Millionaire?"" Questions Sets Automatically from Wikidata.",,https://ceur-ws.org/Vol-2451/paper-30.pdf
+https://dblp.org/rec/conf/i-semantics/WolfKOS11,RISQ! Renowned Individuals Semantic Quiz: a Jeopardy like quiz game for ranking facts.,https://doi.org/10.1145/2063518.2063528,https://doi.org/10.1145/2063518.2063528
+https://dblp.org/rec/conf/i-semantics/WossnerQFA19,Triple Pattern Join Cardinality Estimations over HDT with Enhanced Metadata.,,https://ceur-ws.org/Vol-2451/paper-31.pdf
+https://dblp.org/rec/conf/i-semantics/X09,I-SEMANTICS '09 International Conference on Semantic Systems - Preface.,,
+https://dblp.org/rec/conf/i-semantics/X18,Preface.,https://doi.org/10.1016/J.PROCS.2018.09.001,https://doi.org/10.1016/J.PROCS.2018.09.001
+https://dblp.org/rec/conf/i-semantics/X19,Preface.,,https://ceur-ws.org/Vol-2451/preface.pdf
+https://dblp.org/rec/conf/i-semantics/X23,Preface of the Joint Workshop Proceedings of the 5th Sem4Tra Workshop and 2nd NLP4KGC Workshop co-located with SEMANTiCS 2023.,,https://ceur-ws.org/Vol-3510/preface.pdf
+https://dblp.org/rec/conf/i-semantics/X23a,Preface.,,https://ceur-ws.org/Vol-3526/preface.pdf
+https://dblp.org/rec/conf/i-semantics/YaWA24,UniPart: Optimizing Streaming Graph Partitioning Towards Universal Adaption in RDF Triple Stores.,https://doi.org/10.3233/SSW240024,https://doi.org/10.3233/SSW240024
+https://dblp.org/rec/conf/i-semantics/YeLT17,Memorability of Semantically Grouped Online Reviews.,,https://ceur-ws.org/Vol-2044/paper11/
+https://dblp.org/rec/conf/i-semantics/YounesianBS24,ReWise: A Relation-Wise Sampling Framework for Relational Graph Convolutional Networks.,https://doi.org/10.3233/SSW240011,https://doi.org/10.3233/SSW240011
+https://dblp.org/rec/conf/i-semantics/YuD12,Semantic mining on customer survey.,https://doi.org/10.1145/2362499.2362510,https://doi.org/10.1145/2362499.2362510
+https://dblp.org/rec/conf/i-semantics/ZaheraASMN24,Generating SPARQL from Natural Language Using Chain-of-Thoughts Prompting.,https://doi.org/10.3233/SSW240028,https://doi.org/10.3233/SSW240028
+https://dblp.org/rec/conf/i-semantics/ZaheraVS0N23,Using Pre-Trained Language Models for Abstractive DBPEDIA Summarization: A Comparative Study.,https://doi.org/10.3233/SSW230003,https://doi.org/10.3233/SSW230003
+https://dblp.org/rec/conf/i-semantics/ZaihrayeuPVA11,Adopting semantic annotation systems for corporate portal management: a Telefonica case study.,https://doi.org/10.1145/2063518.2063544,https://doi.org/10.1145/2063518.2063544
+https://dblp.org/rec/conf/i-semantics/Zamazal15,Online ontology shortest paths searcher.,https://doi.org/10.1145/2814864.2814894,https://doi.org/10.1145/2814864.2814894
+https://dblp.org/rec/conf/i-semantics/Zamazal24,Towards Pattern-based Complex Ontology Matching using SPARQL and LLM.,,https://ceur-ws.org/Vol-3759/paper8.pdf
+https://dblp.org/rec/conf/i-semantics/ZamazalDS16,Augmenting the Ontology Visualization Tool Recommender: Input Pre-Filling and Integration with the OOSP Ontological Benchmark Builder.,,https://ceur-ws.org/Vol-1695/paper14.pdf
+https://dblp.org/rec/conf/i-semantics/ZamazalS16,Facilitating Ontological Benchmark Construction Using Similarity Computation and Formal Concept Analysis.,,https://ceur-ws.org/Vol-1695/paper13.pdf
+https://dblp.org/rec/conf/i-semantics/ZamborliniBH17,Toward a Core Conceptual Model for (Im)material Cultural Heritage in the Golden Agents project: Storifying data.,,https://ceur-ws.org/Vol-2063/events-paper1.pdf
+https://dblp.org/rec/conf/i-semantics/ZanderCS12,A computational model for the integration of linked data in mobile augmented reality applications.,https://doi.org/10.1145/2362499.2362518,https://doi.org/10.1145/2362499.2362518
+https://dblp.org/rec/conf/i-semantics/ZanderS10,A framework for context-driven RDF data replication on mobile devices.,https://doi.org/10.1145/1839707.1839735,https://doi.org/10.1145/1839707.1839735
+https://dblp.org/rec/conf/i-semantics/ZaveriKSBMAL13,User-driven quality evaluation of DBpedia.,https://doi.org/10.1145/2506182.2506195,https://doi.org/10.1145/2506182.2506195
+https://dblp.org/rec/conf/i-semantics/ZdravkovicPT10,Towards an approach for formalizing the supply chain operations.,https://doi.org/10.1145/1839707.1839732,https://doi.org/10.1145/1839707.1839732
+https://dblp.org/rec/conf/i-semantics/ZeimetzHS24,ORAQL: An Overlap and Reliability Aware Query Processing Layer for Federations of Triple Fragment Interfaces.,https://doi.org/10.3233/SSW240026,https://doi.org/10.3233/SSW240026
+https://dblp.org/rec/conf/i-semantics/ZeinerHLJD10,Making business processes adaptive through semantically enhanced workflow descriptions.,https://doi.org/10.1145/1839707.1839741,https://doi.org/10.1145/1839707.1839741
+https://dblp.org/rec/conf/i-semantics/Zelitchenko09,Web 2.010 - Social Network 'Make Difference Together' with Pragmatic Description of Projects in the Standard of European Commission's Framework Programme.,,
+https://dblp.org/rec/conf/i-semantics/ZhangPM18,Adapted TextRank for Term Extraction: A Generic Method of Improving Automatic Term Extraction Algorithms.,https://doi.org/10.1016/J.PROCS.2018.09.010,https://doi.org/10.1016/J.PROCS.2018.09.010
+https://dblp.org/rec/conf/i-semantics/ZhaoI12,Graph-based ontology analysis in the linked open data.,https://doi.org/10.1145/2362499.2362508,https://doi.org/10.1145/2362499.2362508
+https://dblp.org/rec/conf/i-semantics/ZochollCJR18,Ontology-based Design of Experiments on Big Data Solutions.,,https://ceur-ws.org/Vol-2198/paper_117.pdf

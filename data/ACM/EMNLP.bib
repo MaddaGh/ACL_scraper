@@ -1,0 +1,119 @@
+@inproceedings{10.5555/1870658.1870690,
+author = {Reichart, Roi and Rappoport, Ari},
+title = {Tense sense disambiguation: a new syntactic polysemy task},
+year = {2010},
+publisher = {Association for Computational Linguistics},
+address = {USA},
+abstract = {Polysemy is a major characteristic of natural languages. Like words, syntactic forms can have several meanings. Understanding the correct meaning of a syntactic form is of great importance to many NLP applications. In this paper we address an important type of syntactic polysemy --- the multiple possible senses of tense syntactic forms. We make our discussion concrete by introducing the task of Tense Sense Disambiguation (TSD): given a concrete tense syntactic form present in a sentence, select its appropriate sense among a set of possible senses. Using English grammar textbooks, we compiled a syntactic sense dictionary comprising common tense syntactic forms and semantic senses for each. We annotated thousands of BNC sentences using the defined senses. We describe a supervised TSD algorithm trained on these annotations, which outperforms a strong baseline for the task.},
+booktitle = {Proceedings of the 2010 Conference on Empirical Methods in Natural Language Processing},
+pages = {325–334},
+numpages = {10},
+location = {Cambridge, Massachusetts},
+series = {EMNLP '10}
+}
+
+@inproceedings{10.5555/2145432.2145591,
+author = {Hall, Keith and McDonald, Ryan and Katz-Brown, Jason and Ringgaard, Michael},
+title = {Training dependency parsers by jointly optimizing multiple objectives},
+year = {2011},
+isbn = {9781937284114},
+publisher = {Association for Computational Linguistics},
+address = {USA},
+abstract = {We present an online learning algorithm for training parsers which allows for the inclusion of multiple objective functions. The primary example is the extension of a standard supervised parsing objective function with additional loss-functions, either based on intrinsic parsing quality or task-specific extrinsic measures of quality. Our empirical results show how this approach performs for two dependency parsing algorithms (graph-based and transition-based parsing) and how it achieves increased performance on multiple target tasks including reordering for machine translation and parser adaptation.},
+booktitle = {Proceedings of the Conference on Empirical Methods in Natural Language Processing},
+pages = {1489–1499},
+numpages = {11},
+location = {Edinburgh, United Kingdom},
+series = {EMNLP '11}
+}
+
+@inproceedings{10.5555/2145432.2145506,
+author = {Christodoulopoulos, Christos and Goldwater, Sharon and Steedman, Mark},
+title = {A Bayesian mixture model for part-of-speech induction using multiple features},
+year = {2011},
+isbn = {9781937284114},
+publisher = {Association for Computational Linguistics},
+address = {USA},
+abstract = {In this paper we present a fully unsupervised syntactic class induction system formulated as a Bayesian multinomial mixture model, where each word type is constrained to belong to a single class. By using a mixture model rather than a sequence model (e.g., HMM), we are able to easily add multiple kinds of features, including those at both the type level (morphology features) and token level (context and alignment features, the latter from parallel corpora). Using only context features, our system yields results comparable to state-of-the art, far better than a similar model without the one-class-per-type constraint. Using the additional features provides added benefit, and our final system outperforms the best published results on most of the 25 corpora tested.},
+booktitle = {Proceedings of the Conference on Empirical Methods in Natural Language Processing},
+pages = {638–647},
+numpages = {10},
+location = {Edinburgh, United Kingdom},
+series = {EMNLP '11}
+}
+
+@inproceedings{10.5555/1699510.1699527,
+author = {Miwa, Makoto and S\ae{}tre, Rune and Miyao, Yusuke and Tsujii, Jun'ichi},
+title = {A rich feature vector for protein-protein interaction extraction from multiple corpora},
+year = {2009},
+isbn = {9781932432596},
+publisher = {Association for Computational Linguistics},
+address = {USA},
+abstract = {Because of the importance of protein-protein interaction (PPI) extraction from text, many corpora have been proposed with slightly differing definitions of proteins and PPI. Since no single corpus is large enough to saturate a machine learning system, it is necessary to learn from multiple different corpora. In this paper, we propose a solution to this challenge. We designed a rich feature vector, and we applied a support vector machine modified for corpus weighting (SVM-CW) to complete the task of multiple corpora PPI extraction. The rich feature vector, made from multiple useful kernels, is used to express the important information for PPI extraction, and the system with our feature vector was shown to be both faster and more accurate than the original kernel-based system, even when using just a single corpus. SVM-CW learns from one corpus, while using other corpora for support. SVM-CW is simple, but it is more effective than other methods that have been successfully applied to other NLP tasks earlier. With the feature vector and SVM-CW, our system achieved the best performance among all state-of-the-art PPI extraction systems reported so far.},
+booktitle = {Proceedings of the 2009 Conference on Empirical Methods in Natural Language Processing: Volume 1 - Volume 1},
+pages = {121–130},
+numpages = {10},
+location = {Singapore},
+series = {EMNLP '09}
+}
+
+@inproceedings{10.5555/1699510.1699524,
+author = {Dreyer, Markus and Eisner, Jason},
+title = {Graphical models over multiple strings},
+year = {2009},
+isbn = {9781932432596},
+publisher = {Association for Computational Linguistics},
+address = {USA},
+abstract = {We study graphical modeling in the case of string-valued random variables. Whereas a weighted finite-state transducer can model the probabilistic relationship between two strings, we are interested in building up joint models of three or more strings. This is needed for inflectional paradigms in morphology, cognate modeling or language reconstruction, and multiple-string alignment. We propose a Markov Random Field in which each factor (potential function) is a weighted finite-state machine, typically a transducer that evaluates the relationship between just two of the strings. The full joint distribution is then a product of these factors. Though decoding is actually undecidable in general, we can still do efficient joint inference using approximate belief propagation; the necessary computations and messages are all finite-state. We demonstrate the methods by jointly predicting morphological forms.},
+booktitle = {Proceedings of the 2009 Conference on Empirical Methods in Natural Language Processing: Volume 1 - Volume 1},
+pages = {101–110},
+numpages = {10},
+location = {Singapore},
+series = {EMNLP '09}
+}
+
+@inproceedings{10.3115/1119355.1119370,
+author = {Ng, Vincent and Cardie, Claire},
+title = {Bootstrapping coreference classifiers with multiple machine learning algorithms},
+year = {2003},
+publisher = {Association for Computational Linguistics},
+address = {USA},
+url = {https://doi.org/10.3115/1119355.1119370},
+doi = {10.3115/1119355.1119370},
+abstract = {Successful application of multi-view co-training algorithms relies on the ability to factor the available features into views that are compatible and uncorrelated. This can potentially preclude their use on problems such as coreference resolution that lack an obvious feature split. To bootstrap coreference classifiers, we propose and evaluate a single-view weakly supervised algorithm that relies on two different learning algorithms in lieu of the two different views required by co-training. In addition, we investigate a method for ranking unlabeled instances to be fed back into the bootstrapping loop as labeled data, aiming to alleviate the problem of performance deterioration that is commonly observed in the course of bootstrapping.},
+booktitle = {Proceedings of the 2003 Conference on Empirical Methods in Natural Language Processing},
+pages = {113–120},
+numpages = {8},
+series = {EMNLP '03}
+}
+
+@inproceedings{10.3115/1118693.1118715,
+author = {Barzilay, Regina and Lee, Lillian},
+title = {Bootstrapping lexical choice via multiple-sequence alignment},
+year = {2002},
+publisher = {Association for Computational Linguistics},
+address = {USA},
+url = {https://doi.org/10.3115/1118693.1118715},
+doi = {10.3115/1118693.1118715},
+abstract = {An important component of any generation system is the mapping dictionary, a lexicon of elementary semantic expressions and corresponding natural language realizations. Typically, labor-intensive knowledge-based methods are used to construct the dictionary. We instead propose to acquire it automatically via a novel multiple-pass algorithm employing multiple-sequence alignment, a technique commonly used in bioinformatics. Crucially, our method lever-ages latent information contained in multi-parallel corpora --- datasets that supply several verbalizations of the corresponding semantics rather than just one.We used our techniques to generate natural language versions of computer-generated mathematical proofs, with good results on both a per-component and overall-output basis. For example, in evaluations involving a dozen human judges, our system produced output whose readability and faithfulness to the semantic input rivaled that of a traditional generation system.},
+booktitle = {Proceedings of the ACL-02 Conference on Empirical Methods in Natural Language Processing - Volume 10},
+pages = {164–171},
+numpages = {8},
+series = {EMNLP '02}
+}
+
+@inproceedings{10.3115/1118693.1118724,
+author = {Wang, Wen and Harper, Mary P.},
+title = {The SuperARV language model: investigating the effectiveness of tightly integrating multiple knowledge sources},
+year = {2002},
+publisher = {Association for Computational Linguistics},
+address = {USA},
+url = {https://doi.org/10.3115/1118693.1118724},
+doi = {10.3115/1118693.1118724},
+abstract = {A new almost-parsing language model incorporating multiple knowledge sources that is based upon the concept of constraint Dependency Grammars is presented in this paper. Lexical features and syntactic constraints are tightly integrated into a uniform linguistic structure called a SuperARV that is associated with a word in the lexicon. The SuperARV language model reduces perplexity and word error rate compared to trigram, part-of-speech-based, and parser-based language models. The relative contributions of the various knowledge sources to the strength of our model are also investigated by using constraint relaxation at the level of the knowledge sources. We have found that although each knowledge source contributes to language model quality, lexical features are an outstanding contributor when they are tightly integrated with word identity and syntactic constraints. Our investigation also suggests possible reasons for the reported poor performance of several probabilistic dependency grammar models in the literature.},
+booktitle = {Proceedings of the ACL-02 Conference on Empirical Methods in Natural Language Processing - Volume 10},
+pages = {238–247},
+numpages = {10},
+series = {EMNLP '02}
+}
+

@@ -1,0 +1,32 @@
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 280 entries, 0 to 279
+Data columns (total 14 columns):
+ #   Column     Non-Null Count  Dtype 
+---  ------     --------------  ----- 
+ 0   bib_url    280 non-null    object
+ 1   ID         280 non-null    object
+ 2   title      280 non-null    object
+ 3   editor     280 non-null    object
+ 4   month      280 non-null    object
+ 5   year       280 non-null    object
+ 6   address    280 non-null    object
+ 7   publisher  280 non-null    object
+ 8   url        280 non-null    object
+ 9   author     280 non-null    object
+ 10  booktitle  280 non-null    object
+ 11  doi        280 non-null    object
+ 12  pages      280 non-null    object
+ 13  abstract   280 non-null    object
+dtypes: object(14)
+memory usage: 30.8+ KB
+
+
+--- Describe ---
+
+                        bib_url   ID  ...       pages                                           abstract
+count                       280  280  ...         280                                                280
+unique                      280  280  ...         280                                                280
+top     /2023.eacl-main.280.bib  280  ...  3912--3926  Large multilingual models have inspired a new ...
+freq                          1    1  ...           1                                                  1
+
+[4 rows x 14 columns]

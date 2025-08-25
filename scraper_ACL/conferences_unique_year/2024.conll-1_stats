@@ -1,0 +1,32 @@
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 40 entries, 0 to 39
+Data columns (total 14 columns):
+ #   Column     Non-Null Count  Dtype 
+---  ------     --------------  ----- 
+ 0   bib_url    40 non-null     object
+ 1   ID         40 non-null     object
+ 2   title      40 non-null     object
+ 3   editor     40 non-null     object
+ 4   month      40 non-null     object
+ 5   year       40 non-null     object
+ 6   address    40 non-null     object
+ 7   publisher  40 non-null     object
+ 8   url        40 non-null     object
+ 9   doi        40 non-null     object
+ 10  author     40 non-null     object
+ 11  booktitle  40 non-null     object
+ 12  pages      40 non-null     object
+ 13  abstract   40 non-null     object
+dtypes: object(14)
+memory usage: 4.5+ KB
+
+
+--- Describe ---
+
+                    bib_url  ID  ... pages                                           abstract
+count                    40  40  ...    40                                                 40
+unique                   40  40  ...    40                                                 40
+top     /2024.conll-1.1.bib   1  ...  1--9  Text Segmentation (TS) is the idea of segmenti...
+freq                      1   1  ...     1                                                  1
+
+[4 rows x 14 columns]

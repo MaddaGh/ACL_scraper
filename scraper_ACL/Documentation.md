@@ -63,7 +63,6 @@ In these files headers depend on what data is retrieved from each bibtex file wh
 - Add Documentation of code
 - double check bibtex files syntax and improve how data are extracted (for instance authors' names are now wrong), use bibtexparser (make it an independent class)
 - extract missing Abstracts form pdf files
-- keep track if some bibtex file is not successfully retrieved in data_extractor.py
 - ensure retrials if request to a URL fails
 - in CsvData class, upgrade to also accept a dataframe and not only a file path, enabling smoother integration.
 

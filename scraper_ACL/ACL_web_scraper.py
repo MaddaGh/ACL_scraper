@@ -30,7 +30,9 @@ class WebScraper:
             raise ValueError(f"Invalid URL: {self.url}. All URLs must start with 'http'.")
         try:
             response = requests.get(self.url, headers=headers)
-            response.raise_for_status() # raises an error if status != 200
+            # returns False if status != 200
+            if response.status_code != 200:
+                return False
 
             html_content = response.text
             #print(response.status_code, response.text[:1000])  # Print first 1000 characters of the response for debugging

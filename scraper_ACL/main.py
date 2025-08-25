@@ -11,6 +11,9 @@ def main(keywords, url_to_parse):
     os.makedirs("ACL_all_data", exist_ok=True) # make the dir to save data from all conferences
     os.makedirs("ACL_filtered_data", exist_ok=True) # make the dir to save data after filtering conferences
 
+    no_abstract_url = []
+    bib_not_found = []
+
     url_manager = URLManager(url_to_parse)
     url_list = url_manager.get_urls()
     url_count = url_manager.get_url_count()
@@ -22,17 +25,35 @@ def main(keywords, url_to_parse):
         scraper = WebScraper(url) # initializes scraper
         conf = scraper.conference_name
         state_scraper = scraper.parse() # gets the html
+        if not state_scraper:
+            continue 
         html = scraper.soup
-        extractor = DataExtractor(html, conf)
+        extractor = DataExtractor(html, conf, True)
         state_extractor = extractor.extract_data()
+        abstract_bool = extractor.abs_bool
+        bib_not_found.extend(extractor.bib_link_not_found)
         data = extractor.data
-        # saver the data from a single URL in csv
-        data.to_csv(f"conferences_unique_year/{conf}.csv", index=False, encoding="utf-8")
-        all_data = pd.concat([all_data, data]) # concatenating the data from different conferences
+
+        # code to catch the urls where there is no abstract found
+        if not abstract_bool:
+            no_abstract_url.append(url)
+
+        if state_extractor: # check if the dataset is not empty
+            # saver the data from a single URL in csv
+            data.to_csv(f"conferences_unique_year/{conf}.csv", index=False, encoding="utf-8")
+            # save dataset info
+
+            with open(f"conferences_unique_year/{conf}_stats.txt", "w") as f:
+                data.info(buf=f)    
+                f.write("\n\n--- Describe ---\n\n")
+                f.write(str(data.describe(include="all")))
+                
+
+            all_data = pd.concat([all_data, data]) # concatenating the data from different conferences
 
         # if the html and data has been succesfully retrieved, the url gets removed from url_list and the count of urls in the list is printed, the parsed url is also added to the parsed url list
         if state_scraper and state_extractor: 
-            url_manager.remove_url() # idk why self.parsed_urls becomes None after the firts url
+            url_manager.remove_url() 
             url_count = url_manager.get_url_count()
             print("number of left URLs to be parsed:  " + str(url_count))  # prints the urls left to parse
         
@@ -47,13 +68,17 @@ def main(keywords, url_to_parse):
     filtered_data = all_data.keyword_filter(keywords)
     filtered_data.to_csv(f"ACL_filtered_data/ACL_filtered_data.csv", index=False, encoding="utf-8") # saving a complete csv with filtered publication
 
+    # print unretrieved data
+    print(no_abstract_url)
+    print(bib_not_found)
+
 
 # all variables
 
 keywords = [ "polyvocality", "polyperspectivity", "poliphony", "polysemy", "plurality",
         "polycentrism", "perspectivism", "multi perspective", "multiplicity", "multivocality"]
 
-url_to_parse = "SOFTWARE/example_url_to_parse.txt"
+url_to_parse = "example_url_to_parse.txt"
 
 if __name__ == "__main__":
     main(keywords, url_to_parse)

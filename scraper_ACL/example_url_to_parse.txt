@@ -1,2 +1,5 @@
-https://aclanthology.org/volumes/E12-1/
-https://aclanthology.org/volumes/E09-1/
+https://aclanthology.org/volu1mes/W99-07/
+https://aclanthology.org/volumes/W99-07/
+https://aclanthology.org/volumes/2024.conll-1/
+https://aclanthology.org/volumes/2023.eacl-main/
+https://aclanthology.org/volumes/2024.eacl-long/

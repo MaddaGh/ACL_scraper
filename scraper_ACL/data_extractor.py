@@ -5,15 +5,19 @@ from ACL_web_scraper import WebScraper
 import re
 
 class DataExtractor:
-    def __init__(self, html_soup, conference_name):
+    def __init__(self, html_soup, conference_name, abstract_bool):
         self.html = html_soup
         self.data = None # is going to be the dataframe
-        self.headers = None # returns the headers of the dataframe
         self.conference_name = conference_name
+        self.abs_bool = abstract_bool
+        self.bib_link_not_found = []  # bib list to save uncresolved links
 
     def extract_data(self):
         bibtex_data = pd.DataFrame() # empty dataframe
         abstract_data =pd.DataFrame()
+
+     
+        
 
         headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36',
@@ -32,6 +36,10 @@ class DataExtractor:
                 bib_file = bib_link.get('href') # gets a specific part of the html where the bib link is
                 # print(bib_file)
                 bib_resolve = requests.get(f"https://aclanthology.org{bib_file}", headers=headers, timeout=20) # FIX 
+                # print(bib_resolve.status_code, bib_resolve.text[:1000])
+                if bib_resolve.status_code != 200:
+                    self.bib_link_not_found.append(bib_file)
+                    continue
 
                 bib_dictionary = {}
                 bib_dictionary["bib_url"] = bib_file # adds the bib file url as ID in the dictionary
@@ -78,13 +86,19 @@ class DataExtractor:
         print(abstract_data)
 
         if not abstract_data.empty: # if the dataframe with abstracts is not empty
+            self.abs_bool = True
             self.data = pd.merge(bibtex_data, abstract_data, on="ID", how="inner")
             # print(self.data)
-        else: # if the dataframe with abstracts is empty
-            bibtex_data["abstract"] = "" # adds the empty abstract column so that it can be concatenated
+            return True
+        elif not bibtex_data.empty: # if the dataframe with abstracts is empty
+            self.abs_bool = False
+            bibtex_data["abstract"] = pd.NA # adds the empty abstract column so that it can be concatenated
             self.data = bibtex_data
-
-        return True
+            return True
+        elif bibtex_data.empty:
+            self.abs_bool = False
+            return False
+       
 
 # function to change headers?
 
@@ -95,7 +109,7 @@ class DataExtractor:
 # scraper.parse()
 # html = scraper.soup
 
-# extractor = DataExtractor(html, "eacl")
+# extractor = DataExtractor(html, "eacl", True)
 # print(extractor.extract_data())
 # data = extractor.data
 # data.to_csv("eacl_data.csv", index=False, encoding="utf-8")

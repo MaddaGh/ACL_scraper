@@ -5,7 +5,6 @@ import re
 class CsvDdata:
     def __init__(self, csv_path):
         self.csv = pd.read_csv(csv_path)
-        self.info = self.csv.info()
 
     # function do get percentage of data completeness
 
@@ -20,9 +19,9 @@ class CsvDdata:
 
 
 # exaple use
-keywords = [ "polyvocality", "polyperspectivity", "poliphony", "polysemy", "plurality", "polycentrism", "perspectivism", "multi perspective", "multiplicity", "multivocality"]
+# keywords = [ "polyvocality", "polyperspectivity", "poliphony", "polysemy", "plurality", "polycentrism", "perspectivism", "multi perspective", "multiplicity", "multivocality"]
 
-data = CsvDdata("merged_data/full_data_df.csv")
-filtered_data = data.keyword_filter(keywords)
+# data = CsvDdata("path")
+# filtered_data = data.keyword_filter(keywords)
 
-filtered_data.to_csv("DATA_FOR_LEA.csv")
+# filtered_data.to_csv("path")
